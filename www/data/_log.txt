@@ -1,0 +1,1960 @@
+Troop 1 ("Cavalo")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 2 ("Bat*2")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 3 ("Hornet*2")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 4 ("Spider*3")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 5 ("Rate*3")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 6 ("Wisp*3")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 7 ("Large Snake*2")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 8 ("Scorpion*3")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 9 ("Jellyfish*2")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 10 ("Man-Eating Plant*3")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 11 ("Ghost*3")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 12 ("Skeleton*2")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 13 ("Orc*3")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 14 ("Imp*2")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 15 ("Gazer*3")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 16 ("Puppet*2")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 17 ("Zombie*3")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 18 ("Cockatrice*2")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 19 ("Chimera")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 20 ("Mimic")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 21 ("Werewolf*2")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 22 ("Sahagin*2")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 23 ("Ogre")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 24 ("Gargoyle*2")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 25 ("Lamia")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 26 ("Vampire")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 27 ("Succubus")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 28 ("Demon")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 29 ("Demon King")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Troop 30 ("Demon God")
+  Page 1
+      {"code":0,"indent":0,"parameters":[]}
+Common Event 1 ("")
+      {"code":0,"indent":0,"parameters":[]}
+Common Event 2 ("")
+      {"code":0,"indent":0,"parameters":[]}
+Common Event 3 ("")
+      {"code":0,"indent":0,"parameters":[]}
+Common Event 4 ("")
+      {"code":0,"indent":0,"parameters":[]}
+Common Event 5 ("")
+      {"code":0,"indent":0,"parameters":[]}
+Common Event 6 ("")
+      {"code":0,"indent":0,"parameters":[]}
+Common Event 7 ("")
+      {"code":0,"indent":0,"parameters":[]}
+Common Event 8 ("")
+      {"code":0,"indent":0,"parameters":[]}
+Common Event 9 ("")
+      {"code":0,"indent":0,"parameters":[]}
+Common Event 10 ("")
+      {"code":0,"indent":0,"parameters":[]}
+Map Data/Map001.rvdata2 (Casa)
+  Event 1 ("EV001" @ 5,15)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":111,"indent":0,"parameters":[7,20,0]}
+      {"code":201,"indent":1,"parameters":[0,2,36,16,0,0]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":411,"indent":0,"parameters":[]}
+      {"code":101,"indent":1,"parameters":["mamae",0,0,2]}
+      {"code":401,"indent":1,"parameters":["mae: o fio pega esses dimdim e compra um "]}
+      {"code":401,"indent":1,"parameters":["pao pra mim?"]}
+      {"code":102,"indent":1,"parameters":[["tabom", "tu n manda em mim"],0,0,2,0]}
+      {"code":402,"indent":1,"parameters":[0,"tabom"]}
+      {"code":101,"indent":2,"parameters":["",0,0,2]}
+      {"code":401,"indent":2,"parameters":["tu ganho 15 reais"]}
+      {"code":125,"indent":2,"parameters":[0,0,15]}
+      {"code":201,"indent":2,"parameters":[0,2,36,16,0,1]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":402,"indent":1,"parameters":[1,"tu n manda em mim"]}
+      {"code":101,"indent":2,"parameters":["Eta",0,0,2]}
+      {"code":401,"indent":2,"parameters":["A MININO AGR TU VAI VE!"]}
+      {"code":249,"indent":2,"parameters":[{"name":"AIMAEAI AI ai","pan":0,"pitch":100,"volume":100}]}
+      {"code":101,"indent":2,"parameters":["OHNAO",0,0,2]}
+      {"code":401,"indent":2,"parameters":["AI MAE AI AI AI AI MAE AI "]}
+      {"code":353,"indent":2,"parameters":[]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":404,"indent":1,"parameters":[]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":412,"indent":0,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 2 ("EV002" @ 15,11)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":101,"indent":0,"parameters":["mamae",0,0,2]}
+      {"code":401,"indent":0,"parameters":["E ai, pego meu pão?"]}
+      {"code":102,"indent":0,"parameters":[["Sim... é claro..."],1,0,2,0]}
+      {"code":402,"indent":0,"parameters":[0,"Sim... é claro..."]}
+      {"code":111,"indent":1,"parameters":[8,1]}
+      {"code":241,"indent":2,"parameters":[{"name":"he-128","pan":0,"pitch":100,"volume":0}]}
+      {"code":221,"indent":2,"parameters":[]}
+      {"code":261,"indent":2,"parameters":["Mulherloca2"]}
+      {"code":222,"indent":2,"parameters":[]}
+      {"code":101,"indent":2,"parameters":["mamae",0,0,2]}
+      {"code":401,"indent":2,"parameters":["Aee minino! vou fazer almoço, enquanto"]}
+      {"code":401,"indent":2,"parameters":["isso, voce pode devolver esse livro para"]}
+      {"code":401,"indent":2,"parameters":["mim?"]}
+      {"code":241,"indent":2,"parameters":[{"name":"he-128","pan":0,"pitch":100,"volume":85}]}
+      {"code":126,"indent":2,"parameters":[1,1,0,1]}
+      {"code":102,"indent":2,"parameters":[["Sim", "A mas eu to com a perna doendo"],0,0,2,0]}
+      {"code":402,"indent":2,"parameters":[0,"Sim"]}
+      {"code":101,"indent":3,"parameters":["",0,0,2]}
+      {"code":401,"indent":3,"parameters":["Você ganhou 10 reais"]}
+      {"code":125,"indent":3,"parameters":[0,0,10]}
+      {"code":126,"indent":3,"parameters":[8,0,0,1]}
+      {"code":0,"indent":3,"parameters":[]}
+      {"code":402,"indent":2,"parameters":[1,"A mas eu to com a perna doendo"]}
+      {"code":101,"indent":3,"parameters":["Eta",0,0,2]}
+      {"code":401,"indent":3,"parameters":["Engole o choro!"]}
+      {"code":125,"indent":3,"parameters":[0,0,10]}
+      {"code":101,"indent":3,"parameters":["",0,0,2]}
+      {"code":401,"indent":3,"parameters":["*Você ganhou 10 reais E um livro*"]}
+      {"code":126,"indent":3,"parameters":[8,0,0,1]}
+      {"code":0,"indent":3,"parameters":[]}
+      {"code":404,"indent":2,"parameters":[]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":411,"indent":1,"parameters":[]}
+      {"code":101,"indent":2,"parameters":["Eta",0,0,2]}
+      {"code":401,"indent":2,"parameters":["A MININO CADE MEU PÃO"]}
+      {"code":102,"indent":2,"parameters":[["FERRO AAAAAAAAA"],0,0,2,0]}
+      {"code":402,"indent":2,"parameters":[0,"FERRO AAAAAAAAA"]}
+      {"code":249,"indent":3,"parameters":[{"name":"AIMAEAI AI ai","pan":0,"pitch":150,"volume":100}]}
+      {"code":101,"indent":3,"parameters":["OHNAO",0,0,2]}
+      {"code":401,"indent":3,"parameters":["AI MAE AI AI AI AI MAE AI "]}
+      {"code":353,"indent":3,"parameters":[]}
+      {"code":0,"indent":3,"parameters":[]}
+      {"code":404,"indent":2,"parameters":[]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":412,"indent":1,"parameters":[]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":404,"indent":0,"parameters":[]}
+      {"code":250,"indent":0,"parameters":[{"name":"Open1","pan":0,"pitch":100,"volume":80}]}
+        {"code":17,"indent":null,"parameters":[]}
+        {"code":15,"indent":null,"parameters":[3]}
+        {"code":18,"indent":null,"parameters":[]}
+        {"code":15,"indent":null,"parameters":[3]}
+        {"code":19,"indent":null,"parameters":[]}
+        {"code":37,"indent":null,"parameters":[]}
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":205,"indent":0,"parameters":[0,{"list":[{"code":17,"indent":null,"parameters":[]},{"code":15,"indent":null,"parameters":[3]},{"code":18,"indent":null,"parameters":[]},{"code":15,"indent":null,"parameters":[3]},{"code":19,"indent":null,"parameters":[]},{"code":37,"indent":null,"parameters":[]},{"code":0,"indent":null,"parameters":[]}],"repeat":false,"skippable":false,"wait":true}]}
+      {"code":505,"indent":0,"parameters":[{"code":17,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":15,"indent":null,"parameters":[3]}]}
+      {"code":505,"indent":0,"parameters":[{"code":18,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":15,"indent":null,"parameters":[3]}]}
+      {"code":505,"indent":0,"parameters":[{"code":19,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":37,"indent":null,"parameters":[]}]}
+        {"code":12,"indent":null,"parameters":[]}
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":205,"indent":0,"parameters":[-1,{"list":[{"code":12,"indent":null,"parameters":[]},{"code":0,"indent":null,"parameters":[]}],"repeat":false,"skippable":true,"wait":true}]}
+      {"code":505,"indent":0,"parameters":[{"code":12,"indent":null,"parameters":[]}]}
+      {"code":250,"indent":0,"parameters":[{"name":"Move","pan":0,"pitch":100,"volume":80}]}
+      {"code":201,"indent":0,"parameters":[0,2,36,16,0,0]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 3 ("EV003" @ 16,12)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":101,"indent":0,"parameters":["ferro",0,0,2]}
+      {"code":401,"indent":0,"parameters":["E ai, pego meu pão?"]}
+      {"code":102,"indent":0,"parameters":[["Sim... é claro..."],1,0,2,0]}
+      {"code":402,"indent":0,"parameters":[0,"Sim... é claro..."]}
+      {"code":111,"indent":1,"parameters":[8,1]}
+      {"code":241,"indent":2,"parameters":[{"name":"he-128","pan":0,"pitch":100,"volume":0}]}
+      {"code":221,"indent":2,"parameters":[]}
+      {"code":261,"indent":2,"parameters":["Mulherloca2"]}
+      {"code":222,"indent":2,"parameters":[]}
+      {"code":101,"indent":2,"parameters":["ferro",0,0,2]}
+      {"code":401,"indent":2,"parameters":["Aee minino! vou fazer almoço, enquanto"]}
+      {"code":401,"indent":2,"parameters":["isso, voce pode devolver esse livro para"]}
+      {"code":401,"indent":2,"parameters":["mim?"]}
+      {"code":241,"indent":2,"parameters":[{"name":"he-128","pan":0,"pitch":100,"volume":85}]}
+      {"code":126,"indent":2,"parameters":[1,1,0,1]}
+      {"code":102,"indent":2,"parameters":[["Sim", "A mas eu to com a perna doendo"],0,0,2,0]}
+      {"code":402,"indent":2,"parameters":[0,"Sim"]}
+      {"code":101,"indent":3,"parameters":["",0,0,2]}
+      {"code":401,"indent":3,"parameters":["Você ganhou 10 reais"]}
+      {"code":125,"indent":3,"parameters":[0,0,10]}
+      {"code":126,"indent":3,"parameters":[8,0,0,1]}
+      {"code":0,"indent":3,"parameters":[]}
+      {"code":402,"indent":2,"parameters":[1,"A mas eu to com a perna doendo"]}
+      {"code":101,"indent":3,"parameters":["Eta",0,0,2]}
+      {"code":401,"indent":3,"parameters":["Engole o choro!"]}
+      {"code":125,"indent":3,"parameters":[0,0,10]}
+      {"code":101,"indent":3,"parameters":["",0,0,2]}
+      {"code":401,"indent":3,"parameters":["*Você ganhou 10 reais"]}
+      {"code":126,"indent":3,"parameters":[8,0,0,1]}
+      {"code":0,"indent":3,"parameters":[]}
+      {"code":404,"indent":2,"parameters":[]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":411,"indent":1,"parameters":[]}
+      {"code":101,"indent":2,"parameters":["ferro",0,0,2]}
+      {"code":401,"indent":2,"parameters":["A MININO CADE MEU PÃO"]}
+      {"code":102,"indent":2,"parameters":[["FERRO AAAAAAAAA"],0,0,2,0]}
+      {"code":402,"indent":2,"parameters":[0,"FERRO AAAAAAAAA"]}
+      {"code":249,"indent":3,"parameters":[{"name":"AIMAEAI AI ai","pan":0,"pitch":150,"volume":100}]}
+      {"code":101,"indent":3,"parameters":["",0,0,2]}
+      {"code":401,"indent":3,"parameters":["AI MAE AI AI AI AI MAE AI "]}
+      {"code":353,"indent":3,"parameters":[]}
+      {"code":0,"indent":3,"parameters":[]}
+      {"code":404,"indent":2,"parameters":[]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":412,"indent":1,"parameters":[]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":404,"indent":0,"parameters":[]}
+      {"code":250,"indent":0,"parameters":[{"name":"Open1","pan":0,"pitch":100,"volume":80}]}
+        {"code":17,"indent":null,"parameters":[]}
+        {"code":15,"indent":null,"parameters":[3]}
+        {"code":18,"indent":null,"parameters":[]}
+        {"code":15,"indent":null,"parameters":[3]}
+        {"code":19,"indent":null,"parameters":[]}
+        {"code":37,"indent":null,"parameters":[]}
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":205,"indent":0,"parameters":[0,{"list":[{"code":17,"indent":null,"parameters":[]},{"code":15,"indent":null,"parameters":[3]},{"code":18,"indent":null,"parameters":[]},{"code":15,"indent":null,"parameters":[3]},{"code":19,"indent":null,"parameters":[]},{"code":37,"indent":null,"parameters":[]},{"code":0,"indent":null,"parameters":[]}],"repeat":false,"skippable":false,"wait":true}]}
+      {"code":505,"indent":0,"parameters":[{"code":17,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":15,"indent":null,"parameters":[3]}]}
+      {"code":505,"indent":0,"parameters":[{"code":18,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":15,"indent":null,"parameters":[3]}]}
+      {"code":505,"indent":0,"parameters":[{"code":19,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":37,"indent":null,"parameters":[]}]}
+        {"code":12,"indent":null,"parameters":[]}
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":205,"indent":0,"parameters":[-1,{"list":[{"code":12,"indent":null,"parameters":[]},{"code":0,"indent":null,"parameters":[]}],"repeat":false,"skippable":true,"wait":true}]}
+      {"code":505,"indent":0,"parameters":[{"code":12,"indent":null,"parameters":[]}]}
+      {"code":250,"indent":0,"parameters":[{"name":"Move","pan":0,"pitch":100,"volume":80}]}
+      {"code":201,"indent":0,"parameters":[0,2,36,16,0,0]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 4 ("EV004" @ 14,6)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":241,"indent":0,"parameters":[{"name":"he-128","pan":0,"pitch":120,"volume":100}]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 5 ("EV005" @ 15,5)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":241,"indent":0,"parameters":[{"name":"he-128","pan":0,"pitch":120,"volume":100}]}
+      {"code":0,"indent":0,"parameters":[]}
+Map Data/Map002.rvdata2 (Cidade)
+  Event 1 ("EV001" @ 27,21)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 2 ("EV002" @ 27,20)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 3 ("EV003" @ 17,35)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":250,"indent":0,"parameters":[{"name":"Open1","pan":0,"pitch":100,"volume":80}]}
+        {"code":17,"indent":null,"parameters":[]}
+        {"code":15,"indent":null,"parameters":[3]}
+        {"code":18,"indent":null,"parameters":[]}
+        {"code":15,"indent":null,"parameters":[3]}
+        {"code":19,"indent":null,"parameters":[]}
+        {"code":37,"indent":null,"parameters":[]}
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":205,"indent":0,"parameters":[0,{"list":[{"code":17,"indent":null,"parameters":[]},{"code":15,"indent":null,"parameters":[3]},{"code":18,"indent":null,"parameters":[]},{"code":15,"indent":null,"parameters":[3]},{"code":19,"indent":null,"parameters":[]},{"code":37,"indent":null,"parameters":[]},{"code":0,"indent":null,"parameters":[]}],"repeat":false,"skippable":false,"wait":true}]}
+      {"code":505,"indent":0,"parameters":[{"code":17,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":15,"indent":null,"parameters":[3]}]}
+      {"code":505,"indent":0,"parameters":[{"code":18,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":15,"indent":null,"parameters":[3]}]}
+      {"code":505,"indent":0,"parameters":[{"code":19,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":37,"indent":null,"parameters":[]}]}
+        {"code":12,"indent":null,"parameters":[]}
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":205,"indent":0,"parameters":[-1,{"list":[{"code":12,"indent":null,"parameters":[]},{"code":0,"indent":null,"parameters":[]}],"repeat":false,"skippable":true,"wait":true}]}
+      {"code":505,"indent":0,"parameters":[{"code":12,"indent":null,"parameters":[]}]}
+      {"code":250,"indent":0,"parameters":[{"name":"Move","pan":0,"pitch":100,"volume":80}]}
+      {"code":201,"indent":0,"parameters":[0,3,8,17,0,0]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 4 ("EV004" @ 36,15)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":111,"indent":0,"parameters":[8,6]}
+        {"code":17,"indent":null,"parameters":[]}
+        {"code":15,"indent":null,"parameters":[3]}
+        {"code":18,"indent":null,"parameters":[]}
+        {"code":15,"indent":null,"parameters":[3]}
+        {"code":19,"indent":null,"parameters":[]}
+        {"code":37,"indent":null,"parameters":[]}
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":205,"indent":1,"parameters":[0,{"list":[{"code":17,"indent":null,"parameters":[]},{"code":15,"indent":null,"parameters":[3]},{"code":18,"indent":null,"parameters":[]},{"code":15,"indent":null,"parameters":[3]},{"code":19,"indent":null,"parameters":[]},{"code":37,"indent":null,"parameters":[]},{"code":0,"indent":null,"parameters":[]}],"repeat":false,"skippable":false,"wait":true}]}
+      {"code":505,"indent":1,"parameters":[{"code":17,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":1,"parameters":[{"code":15,"indent":null,"parameters":[3]}]}
+      {"code":505,"indent":1,"parameters":[{"code":18,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":1,"parameters":[{"code":15,"indent":null,"parameters":[3]}]}
+      {"code":505,"indent":1,"parameters":[{"code":19,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":1,"parameters":[{"code":37,"indent":null,"parameters":[]}]}
+        {"code":12,"indent":null,"parameters":[]}
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":205,"indent":1,"parameters":[-1,{"list":[{"code":12,"indent":null,"parameters":[]},{"code":0,"indent":null,"parameters":[]}],"repeat":false,"skippable":true,"wait":true}]}
+      {"code":505,"indent":1,"parameters":[{"code":12,"indent":null,"parameters":[]}]}
+      {"code":250,"indent":1,"parameters":[{"name":"Move","pan":0,"pitch":100,"volume":80}]}
+      {"code":201,"indent":1,"parameters":[0,5,5,14,0,0]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":411,"indent":0,"parameters":[]}
+      {"code":201,"indent":1,"parameters":[0,1,16,11,0,0]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":412,"indent":0,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 5 ("EV005" @ 26,29)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":250,"indent":0,"parameters":[{"name":"Open1","pan":0,"pitch":100,"volume":80}]}
+        {"code":17,"indent":null,"parameters":[]}
+        {"code":15,"indent":null,"parameters":[3]}
+        {"code":18,"indent":null,"parameters":[]}
+        {"code":15,"indent":null,"parameters":[3]}
+        {"code":19,"indent":null,"parameters":[]}
+        {"code":37,"indent":null,"parameters":[]}
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":205,"indent":0,"parameters":[0,{"list":[{"code":17,"indent":null,"parameters":[]},{"code":15,"indent":null,"parameters":[3]},{"code":18,"indent":null,"parameters":[]},{"code":15,"indent":null,"parameters":[3]},{"code":19,"indent":null,"parameters":[]},{"code":37,"indent":null,"parameters":[]},{"code":0,"indent":null,"parameters":[]}],"repeat":false,"skippable":false,"wait":true}]}
+      {"code":505,"indent":0,"parameters":[{"code":17,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":15,"indent":null,"parameters":[3]}]}
+      {"code":505,"indent":0,"parameters":[{"code":18,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":15,"indent":null,"parameters":[3]}]}
+      {"code":505,"indent":0,"parameters":[{"code":19,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":37,"indent":null,"parameters":[]}]}
+        {"code":12,"indent":null,"parameters":[]}
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":205,"indent":0,"parameters":[-1,{"list":[{"code":12,"indent":null,"parameters":[]},{"code":0,"indent":null,"parameters":[]}],"repeat":false,"skippable":true,"wait":true}]}
+      {"code":505,"indent":0,"parameters":[{"code":12,"indent":null,"parameters":[]}]}
+      {"code":250,"indent":0,"parameters":[{"name":"Move","pan":0,"pitch":100,"volume":80}]}
+      {"code":201,"indent":0,"parameters":[0,4,17,24,0,0]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 6 ("EV006" @ 38,16)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":250,"indent":0,"parameters":[{"name":"Open1","pan":0,"pitch":100,"volume":80}]}
+        {"code":17,"indent":null,"parameters":[]}
+        {"code":15,"indent":null,"parameters":[3]}
+        {"code":18,"indent":null,"parameters":[]}
+        {"code":15,"indent":null,"parameters":[3]}
+        {"code":19,"indent":null,"parameters":[]}
+        {"code":37,"indent":null,"parameters":[]}
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":205,"indent":0,"parameters":[0,{"list":[{"code":17,"indent":null,"parameters":[]},{"code":15,"indent":null,"parameters":[3]},{"code":18,"indent":null,"parameters":[]},{"code":15,"indent":null,"parameters":[3]},{"code":19,"indent":null,"parameters":[]},{"code":37,"indent":null,"parameters":[]},{"code":0,"indent":null,"parameters":[]}],"repeat":false,"skippable":false,"wait":true}]}
+      {"code":505,"indent":0,"parameters":[{"code":17,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":15,"indent":null,"parameters":[3]}]}
+      {"code":505,"indent":0,"parameters":[{"code":18,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":15,"indent":null,"parameters":[3]}]}
+      {"code":505,"indent":0,"parameters":[{"code":19,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":37,"indent":null,"parameters":[]}]}
+        {"code":12,"indent":null,"parameters":[]}
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":205,"indent":0,"parameters":[-1,{"list":[{"code":12,"indent":null,"parameters":[]},{"code":0,"indent":null,"parameters":[]}],"repeat":false,"skippable":true,"wait":true}]}
+      {"code":505,"indent":0,"parameters":[{"code":12,"indent":null,"parameters":[]}]}
+      {"code":250,"indent":0,"parameters":[{"name":"Move","pan":0,"pitch":100,"volume":80}]}
+      {"code":201,"indent":0,"parameters":[0,11,8,11,0,0]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 7 ("EV007" @ 17,34)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 8 ("EV008" @ 35,16)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":126,"indent":0,"parameters":[1,0,0,1]}
+      {"code":261,"indent":0,"parameters":["dasda"]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 9 ("EV009" @ 8,13)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":126,"indent":0,"parameters":[16,0,0,1]}
+      {"code":250,"indent":0,"parameters":[{"name":"Open1","pan":0,"pitch":100,"volume":80}]}
+        {"code":17,"indent":null,"parameters":[]}
+        {"code":15,"indent":null,"parameters":[3]}
+        {"code":18,"indent":null,"parameters":[]}
+        {"code":15,"indent":null,"parameters":[3]}
+        {"code":19,"indent":null,"parameters":[]}
+        {"code":37,"indent":null,"parameters":[]}
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":205,"indent":0,"parameters":[0,{"list":[{"code":17,"indent":null,"parameters":[]},{"code":15,"indent":null,"parameters":[3]},{"code":18,"indent":null,"parameters":[]},{"code":15,"indent":null,"parameters":[3]},{"code":19,"indent":null,"parameters":[]},{"code":37,"indent":null,"parameters":[]},{"code":0,"indent":null,"parameters":[]}],"repeat":false,"skippable":false,"wait":true}]}
+      {"code":505,"indent":0,"parameters":[{"code":17,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":15,"indent":null,"parameters":[3]}]}
+      {"code":505,"indent":0,"parameters":[{"code":18,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":15,"indent":null,"parameters":[3]}]}
+      {"code":505,"indent":0,"parameters":[{"code":19,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":37,"indent":null,"parameters":[]}]}
+        {"code":12,"indent":null,"parameters":[]}
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":205,"indent":0,"parameters":[-1,{"list":[{"code":12,"indent":null,"parameters":[]},{"code":0,"indent":null,"parameters":[]}],"repeat":false,"skippable":true,"wait":true}]}
+      {"code":505,"indent":0,"parameters":[{"code":12,"indent":null,"parameters":[]}]}
+      {"code":250,"indent":0,"parameters":[{"name":"Move","pan":0,"pitch":100,"volume":80}]}
+      {"code":201,"indent":0,"parameters":[0,12,1,11,0,0]}
+      {"code":0,"indent":0,"parameters":[]}
+Map Data/Map003.rvdata2 (Padaria)
+  Event 1 ("EV001" @ 8,17)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":250,"indent":0,"parameters":[{"name":"Open1","pan":0,"pitch":100,"volume":80}]}
+        {"code":17,"indent":null,"parameters":[]}
+        {"code":15,"indent":null,"parameters":[3]}
+        {"code":18,"indent":null,"parameters":[]}
+        {"code":15,"indent":null,"parameters":[3]}
+        {"code":19,"indent":null,"parameters":[]}
+        {"code":37,"indent":null,"parameters":[]}
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":205,"indent":0,"parameters":[0,{"list":[{"code":17,"indent":null,"parameters":[]},{"code":15,"indent":null,"parameters":[3]},{"code":18,"indent":null,"parameters":[]},{"code":15,"indent":null,"parameters":[3]},{"code":19,"indent":null,"parameters":[]},{"code":37,"indent":null,"parameters":[]},{"code":0,"indent":null,"parameters":[]}],"repeat":false,"skippable":false,"wait":true}]}
+      {"code":505,"indent":0,"parameters":[{"code":17,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":15,"indent":null,"parameters":[3]}]}
+      {"code":505,"indent":0,"parameters":[{"code":18,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":15,"indent":null,"parameters":[3]}]}
+      {"code":505,"indent":0,"parameters":[{"code":19,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":37,"indent":null,"parameters":[]}]}
+        {"code":12,"indent":null,"parameters":[]}
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":205,"indent":0,"parameters":[-1,{"list":[{"code":12,"indent":null,"parameters":[]},{"code":0,"indent":null,"parameters":[]}],"repeat":false,"skippable":true,"wait":true}]}
+      {"code":505,"indent":0,"parameters":[{"code":12,"indent":null,"parameters":[]}]}
+      {"code":250,"indent":0,"parameters":[{"name":"Move","pan":0,"pitch":100,"volume":80}]}
+      {"code":201,"indent":0,"parameters":[0,16,17,36,0,0]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 2 ("EV002" @ 9,6)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 3 ("EV003" @ 10,7)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":101,"indent":0,"parameters":["Evil",1,0,2]}
+      {"code":401,"indent":0,"parameters":["Mama mia! quer comprar este pãozito por "]}
+      {"code":401,"indent":0,"parameters":["5 realzitos?"]}
+      {"code":102,"indent":0,"parameters":[["Sim", "Não"],1,0,2,0]}
+      {"code":402,"indent":0,"parameters":[0,"Sim"]}
+      {"code":111,"indent":1,"parameters":[7,0,0]}
+      {"code":125,"indent":2,"parameters":[1,0,5]}
+      {"code":101,"indent":2,"parameters":["Evil",1,0,2]}
+      {"code":401,"indent":2,"parameters":["Prazer fazer negócios com você "]}
+      {"code":126,"indent":2,"parameters":[1,0,0,1]}
+      {"code":101,"indent":2,"parameters":["",0,0,2]}
+      {"code":401,"indent":2,"parameters":["*agora você tem 10 reais!*"]}
+      {"code":101,"indent":2,"parameters":["",0,0,2]}
+      {"code":401,"indent":2,"parameters":["Um aviso manito!, cuidado com o cavalo doido la fora!"]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":411,"indent":1,"parameters":[]}
+      {"code":101,"indent":2,"parameters":["Evil",1,0,2]}
+      {"code":401,"indent":2,"parameters":["... mas você nem tem dinheiro"]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":412,"indent":1,"parameters":[]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":402,"indent":0,"parameters":[1,"Não"]}
+      {"code":101,"indent":1,"parameters":["Evil",1,0,2]}
+      {"code":401,"indent":1,"parameters":["Ta bom então..."]}
+      {"code":101,"indent":1,"parameters":["Evil",1,0,2]}
+      {"code":401,"indent":1,"parameters":["eu sou um fracasso"]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":404,"indent":0,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+Map Data/Map004.rvdata2 (Biblioteca)
+  Event 1 ("EV001" @ 7,7)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 2 ("EV002" @ 7,9)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":111,"indent":0,"parameters":[8,8]}
+      {"code":101,"indent":1,"parameters":["Actor4",3,0,2]}
+      {"code":401,"indent":1,"parameters":["Olá como posso ajudar?"]}
+      {"code":102,"indent":1,"parameters":[["Eu vim devolver um livro"],0,0,2,0]}
+      {"code":402,"indent":1,"parameters":[0,"Eu vim devolver um livro"]}
+      {"code":101,"indent":2,"parameters":["Actor4",3,0,2]}
+      {"code":401,"indent":2,"parameters":["Ok, isso será 5 reais"]}
+      {"code":102,"indent":2,"parameters":[["Pagar"],1,0,2,0]}
+      {"code":402,"indent":2,"parameters":[0,"Pagar"]}
+      {"code":125,"indent":3,"parameters":[1,0,5]}
+      {"code":101,"indent":3,"parameters":["",0,0,2]}
+      {"code":401,"indent":3,"parameters":["*Você devolveu o livro"]}
+      {"code":126,"indent":3,"parameters":[6,0,0,1]}
+      {"code":126,"indent":3,"parameters":[8,1,0,1]}
+      {"code":0,"indent":3,"parameters":[]}
+      {"code":404,"indent":2,"parameters":[]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":404,"indent":1,"parameters":[]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":411,"indent":0,"parameters":[]}
+      {"code":101,"indent":1,"parameters":["Actor4",3,0,2]}
+      {"code":401,"indent":1,"parameters":["Olá! quer comprar um livro?"]}
+      {"code":102,"indent":1,"parameters":[["Não"],0,0,2,0]}
+      {"code":402,"indent":1,"parameters":[0,"Não"]}
+      {"code":101,"indent":2,"parameters":["Actor4",3,0,2]}
+      {"code":401,"indent":2,"parameters":["Ok"]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":404,"indent":1,"parameters":[]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":412,"indent":0,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 3 ("EV003" @ 17,25)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":250,"indent":0,"parameters":[{"name":"Open1","pan":0,"pitch":100,"volume":80}]}
+        {"code":17,"indent":null,"parameters":[]}
+        {"code":15,"indent":null,"parameters":[3]}
+        {"code":18,"indent":null,"parameters":[]}
+        {"code":15,"indent":null,"parameters":[3]}
+        {"code":19,"indent":null,"parameters":[]}
+        {"code":37,"indent":null,"parameters":[]}
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":205,"indent":0,"parameters":[0,{"list":[{"code":17,"indent":null,"parameters":[]},{"code":15,"indent":null,"parameters":[3]},{"code":18,"indent":null,"parameters":[]},{"code":15,"indent":null,"parameters":[3]},{"code":19,"indent":null,"parameters":[]},{"code":37,"indent":null,"parameters":[]},{"code":0,"indent":null,"parameters":[]}],"repeat":false,"skippable":false,"wait":true}]}
+      {"code":505,"indent":0,"parameters":[{"code":17,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":15,"indent":null,"parameters":[3]}]}
+      {"code":505,"indent":0,"parameters":[{"code":18,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":15,"indent":null,"parameters":[3]}]}
+      {"code":505,"indent":0,"parameters":[{"code":19,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":37,"indent":null,"parameters":[]}]}
+        {"code":12,"indent":null,"parameters":[]}
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":205,"indent":0,"parameters":[-1,{"list":[{"code":12,"indent":null,"parameters":[]},{"code":0,"indent":null,"parameters":[]}],"repeat":false,"skippable":true,"wait":true}]}
+      {"code":505,"indent":0,"parameters":[{"code":12,"indent":null,"parameters":[]}]}
+      {"code":250,"indent":0,"parameters":[{"name":"Move","pan":0,"pitch":100,"volume":80}]}
+      {"code":201,"indent":0,"parameters":[0,2,26,30,0,0]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 4 ("EV004" @ 8,15)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":101,"indent":0,"parameters":["",0,0,2]}
+      {"code":401,"indent":0,"parameters":["Está escrito: Shhh!"]}
+      {"code":0,"indent":0,"parameters":[]}
+Map Data/Map005.rvdata2 (Casa )
+  Event 1 ("EV001" @ 5,15)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":250,"indent":0,"parameters":[{"name":"Open1","pan":0,"pitch":100,"volume":80}]}
+        {"code":17,"indent":null,"parameters":[]}
+        {"code":15,"indent":null,"parameters":[3]}
+        {"code":18,"indent":null,"parameters":[]}
+        {"code":15,"indent":null,"parameters":[3]}
+        {"code":19,"indent":null,"parameters":[]}
+        {"code":37,"indent":null,"parameters":[]}
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":205,"indent":0,"parameters":[0,{"list":[{"code":17,"indent":null,"parameters":[]},{"code":15,"indent":null,"parameters":[3]},{"code":18,"indent":null,"parameters":[]},{"code":15,"indent":null,"parameters":[3]},{"code":19,"indent":null,"parameters":[]},{"code":37,"indent":null,"parameters":[]},{"code":0,"indent":null,"parameters":[]}],"repeat":false,"skippable":false,"wait":true}]}
+      {"code":505,"indent":0,"parameters":[{"code":17,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":15,"indent":null,"parameters":[3]}]}
+      {"code":505,"indent":0,"parameters":[{"code":18,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":15,"indent":null,"parameters":[3]}]}
+      {"code":505,"indent":0,"parameters":[{"code":19,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":37,"indent":null,"parameters":[]}]}
+        {"code":12,"indent":null,"parameters":[]}
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":205,"indent":0,"parameters":[-1,{"list":[{"code":12,"indent":null,"parameters":[]},{"code":0,"indent":null,"parameters":[]}],"repeat":false,"skippable":true,"wait":true}]}
+      {"code":505,"indent":0,"parameters":[{"code":12,"indent":null,"parameters":[]}]}
+      {"code":250,"indent":0,"parameters":[{"name":"Move","pan":0,"pitch":100,"volume":80}]}
+      {"code":201,"indent":0,"parameters":[0,2,36,16,0,0]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 2 ("EV002" @ 7,8)
+    Page 1
+        {"code":1,"indent":null,"parameters":[]}
+        {"code":1,"indent":null,"parameters":[]}
+        {"code":1,"indent":null,"parameters":[]}
+        {"code":1,"indent":null,"parameters":[]}
+        {"code":2,"indent":null,"parameters":[]}
+        {"code":2,"indent":null,"parameters":[]}
+        {"code":1,"indent":null,"parameters":[]}
+        {"code":1,"indent":null,"parameters":[]}
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":101,"indent":0,"parameters":["mamae",0,0,2]}
+      {"code":401,"indent":0,"parameters":["Oi filho! almoço está pronto!"]}
+      {"code":401,"indent":0,"parameters":["vem comer!"]}
+      {"code":221,"indent":0,"parameters":[]}
+      {"code":201,"indent":0,"parameters":[0,6,9,10,0,2]}
+      {"code":222,"indent":0,"parameters":[]}
+      {"code":311,"indent":0,"parameters":[0,1,0,0,999,false]}
+      {"code":101,"indent":0,"parameters":["mamae",0,0,2]}
+      {"code":401,"indent":0,"parameters":["Nossa, isso tava gostoso em!"]}
+      {"code":101,"indent":0,"parameters":["mamae",0,0,2]}
+      {"code":401,"indent":0,"parameters":["Agora vai pra escola!"]}
+      {"code":401,"indent":0,"parameters":["me segue"]}
+      {"code":0,"indent":0,"parameters":[]}
+Map Data/Map006.rvdata2 (Casa)
+  Event 1 ("EV001" @ 5,15)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":250,"indent":0,"parameters":[{"name":"Open1","pan":0,"pitch":100,"volume":80}]}
+        {"code":17,"indent":null,"parameters":[]}
+        {"code":15,"indent":null,"parameters":[3]}
+        {"code":18,"indent":null,"parameters":[]}
+        {"code":15,"indent":null,"parameters":[3]}
+        {"code":19,"indent":null,"parameters":[]}
+        {"code":37,"indent":null,"parameters":[]}
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":205,"indent":0,"parameters":[0,{"list":[{"code":17,"indent":null,"parameters":[]},{"code":15,"indent":null,"parameters":[3]},{"code":18,"indent":null,"parameters":[]},{"code":15,"indent":null,"parameters":[3]},{"code":19,"indent":null,"parameters":[]},{"code":37,"indent":null,"parameters":[]},{"code":0,"indent":null,"parameters":[]}],"repeat":false,"skippable":false,"wait":true}]}
+      {"code":505,"indent":0,"parameters":[{"code":17,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":15,"indent":null,"parameters":[3]}]}
+      {"code":505,"indent":0,"parameters":[{"code":18,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":15,"indent":null,"parameters":[3]}]}
+      {"code":505,"indent":0,"parameters":[{"code":19,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":37,"indent":null,"parameters":[]}]}
+        {"code":12,"indent":null,"parameters":[]}
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":205,"indent":0,"parameters":[-1,{"list":[{"code":12,"indent":null,"parameters":[]},{"code":0,"indent":null,"parameters":[]}],"repeat":false,"skippable":true,"wait":true}]}
+      {"code":505,"indent":0,"parameters":[{"code":12,"indent":null,"parameters":[]}]}
+      {"code":250,"indent":0,"parameters":[{"name":"Move","pan":0,"pitch":100,"volume":80}]}
+      {"code":201,"indent":0,"parameters":[0,7,36,16,0,0]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 2 ("EV002" @ 8,8)
+    Page 1
+        {"code":2,"indent":null,"parameters":[]}
+        {"code":1,"indent":null,"parameters":[]}
+        {"code":1,"indent":null,"parameters":[]}
+        {"code":1,"indent":null,"parameters":[]}
+        {"code":1,"indent":null,"parameters":[]}
+        {"code":2,"indent":null,"parameters":[]}
+        {"code":2,"indent":null,"parameters":[]}
+        {"code":1,"indent":null,"parameters":[]}
+        {"code":1,"indent":null,"parameters":[]}
+        {"code":13,"indent":null,"parameters":[]}
+        {"code":13,"indent":null,"parameters":[]}
+        {"code":13,"indent":null,"parameters":[]}
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 4 ("EV004" @ 14,6)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":241,"indent":0,"parameters":[{"name":"he-128","pan":0,"pitch":120,"volume":100}]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 5 ("EV005" @ 15,5)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":241,"indent":0,"parameters":[{"name":"he-128","pan":0,"pitch":120,"volume":100}]}
+      {"code":0,"indent":0,"parameters":[]}
+Map Data/Map007.rvdata2 (Cidade)
+  Event 1 ("EV001" @ 27,21)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 2 ("EV002" @ 27,20)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 3 ("EV003" @ 36,15)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":250,"indent":0,"parameters":[{"name":"Open1","pan":0,"pitch":100,"volume":80}]}
+        {"code":17,"indent":null,"parameters":[]}
+        {"code":15,"indent":null,"parameters":[3]}
+        {"code":18,"indent":null,"parameters":[]}
+        {"code":15,"indent":null,"parameters":[3]}
+        {"code":19,"indent":null,"parameters":[]}
+        {"code":37,"indent":null,"parameters":[]}
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":205,"indent":0,"parameters":[0,{"list":[{"code":17,"indent":null,"parameters":[]},{"code":15,"indent":null,"parameters":[3]},{"code":18,"indent":null,"parameters":[]},{"code":15,"indent":null,"parameters":[3]},{"code":19,"indent":null,"parameters":[]},{"code":37,"indent":null,"parameters":[]},{"code":0,"indent":null,"parameters":[]}],"repeat":false,"skippable":false,"wait":true}]}
+      {"code":505,"indent":0,"parameters":[{"code":17,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":15,"indent":null,"parameters":[3]}]}
+      {"code":505,"indent":0,"parameters":[{"code":18,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":15,"indent":null,"parameters":[3]}]}
+      {"code":505,"indent":0,"parameters":[{"code":19,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":37,"indent":null,"parameters":[]}]}
+        {"code":12,"indent":null,"parameters":[]}
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":205,"indent":0,"parameters":[-1,{"list":[{"code":12,"indent":null,"parameters":[]},{"code":0,"indent":null,"parameters":[]}],"repeat":false,"skippable":true,"wait":true}]}
+      {"code":505,"indent":0,"parameters":[{"code":12,"indent":null,"parameters":[]}]}
+      {"code":250,"indent":0,"parameters":[{"name":"Move","pan":0,"pitch":100,"volume":80}]}
+      {"code":201,"indent":0,"parameters":[0,6,5,14,0,0]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 4 ("EV004" @ 26,29)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":250,"indent":0,"parameters":[{"name":"Open1","pan":0,"pitch":100,"volume":80}]}
+        {"code":17,"indent":null,"parameters":[]}
+        {"code":15,"indent":null,"parameters":[3]}
+        {"code":18,"indent":null,"parameters":[]}
+        {"code":15,"indent":null,"parameters":[3]}
+        {"code":19,"indent":null,"parameters":[]}
+        {"code":37,"indent":null,"parameters":[]}
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":205,"indent":0,"parameters":[0,{"list":[{"code":17,"indent":null,"parameters":[]},{"code":15,"indent":null,"parameters":[3]},{"code":18,"indent":null,"parameters":[]},{"code":15,"indent":null,"parameters":[3]},{"code":19,"indent":null,"parameters":[]},{"code":37,"indent":null,"parameters":[]},{"code":0,"indent":null,"parameters":[]}],"repeat":false,"skippable":false,"wait":true}]}
+      {"code":505,"indent":0,"parameters":[{"code":17,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":15,"indent":null,"parameters":[3]}]}
+      {"code":505,"indent":0,"parameters":[{"code":18,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":15,"indent":null,"parameters":[3]}]}
+      {"code":505,"indent":0,"parameters":[{"code":19,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":37,"indent":null,"parameters":[]}]}
+        {"code":12,"indent":null,"parameters":[]}
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":205,"indent":0,"parameters":[-1,{"list":[{"code":12,"indent":null,"parameters":[]},{"code":0,"indent":null,"parameters":[]}],"repeat":false,"skippable":true,"wait":true}]}
+      {"code":505,"indent":0,"parameters":[{"code":12,"indent":null,"parameters":[]}]}
+      {"code":250,"indent":0,"parameters":[{"name":"Move","pan":0,"pitch":100,"volume":80}]}
+      {"code":201,"indent":0,"parameters":[0,8,17,24,0,0]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 5 ("EV005" @ 17,35)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":250,"indent":0,"parameters":[{"name":"Open1","pan":0,"pitch":100,"volume":80}]}
+        {"code":17,"indent":null,"parameters":[]}
+        {"code":15,"indent":null,"parameters":[3]}
+        {"code":18,"indent":null,"parameters":[]}
+        {"code":15,"indent":null,"parameters":[3]}
+        {"code":19,"indent":null,"parameters":[]}
+        {"code":37,"indent":null,"parameters":[]}
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":205,"indent":0,"parameters":[0,{"list":[{"code":17,"indent":null,"parameters":[]},{"code":15,"indent":null,"parameters":[3]},{"code":18,"indent":null,"parameters":[]},{"code":15,"indent":null,"parameters":[3]},{"code":19,"indent":null,"parameters":[]},{"code":37,"indent":null,"parameters":[]},{"code":0,"indent":null,"parameters":[]}],"repeat":false,"skippable":false,"wait":true}]}
+      {"code":505,"indent":0,"parameters":[{"code":17,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":15,"indent":null,"parameters":[3]}]}
+      {"code":505,"indent":0,"parameters":[{"code":18,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":15,"indent":null,"parameters":[3]}]}
+      {"code":505,"indent":0,"parameters":[{"code":19,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":37,"indent":null,"parameters":[]}]}
+        {"code":12,"indent":null,"parameters":[]}
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":205,"indent":0,"parameters":[-1,{"list":[{"code":12,"indent":null,"parameters":[]},{"code":0,"indent":null,"parameters":[]}],"repeat":false,"skippable":true,"wait":true}]}
+      {"code":505,"indent":0,"parameters":[{"code":12,"indent":null,"parameters":[]}]}
+      {"code":250,"indent":0,"parameters":[{"name":"Move","pan":0,"pitch":100,"volume":80}]}
+      {"code":201,"indent":0,"parameters":[0,9,8,16,0,0]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 6 ("EV006" @ 36,16)
+    Page 1
+        {"code":1,"indent":null,"parameters":[]}
+        {"code":2,"indent":null,"parameters":[]}
+        {"code":2,"indent":null,"parameters":[]}
+        {"code":2,"indent":null,"parameters":[]}
+        {"code":2,"indent":null,"parameters":[]}
+        {"code":2,"indent":null,"parameters":[]}
+        {"code":2,"indent":null,"parameters":[]}
+        {"code":2,"indent":null,"parameters":[]}
+        {"code":2,"indent":null,"parameters":[]}
+        {"code":2,"indent":null,"parameters":[]}
+        {"code":2,"indent":null,"parameters":[]}
+        {"code":2,"indent":null,"parameters":[]}
+        {"code":2,"indent":null,"parameters":[]}
+        {"code":2,"indent":null,"parameters":[]}
+        {"code":2,"indent":null,"parameters":[]}
+        {"code":2,"indent":null,"parameters":[]}
+        {"code":2,"indent":null,"parameters":[]}
+        {"code":4,"indent":null,"parameters":[]}
+        {"code":2,"indent":null,"parameters":[]}
+        {"code":2,"indent":null,"parameters":[]}
+        {"code":2,"indent":null,"parameters":[]}
+        {"code":2,"indent":null,"parameters":[]}
+        {"code":2,"indent":null,"parameters":[]}
+        {"code":2,"indent":null,"parameters":[]}
+        {"code":2,"indent":null,"parameters":[]}
+        {"code":2,"indent":null,"parameters":[]}
+        {"code":2,"indent":null,"parameters":[]}
+        {"code":2,"indent":null,"parameters":[]}
+        {"code":2,"indent":null,"parameters":[]}
+        {"code":2,"indent":null,"parameters":[]}
+        {"code":4,"indent":null,"parameters":[]}
+        {"code":4,"indent":null,"parameters":[]}
+        {"code":1,"indent":null,"parameters":[]}
+        {"code":1,"indent":null,"parameters":[]}
+        {"code":1,"indent":null,"parameters":[]}
+        {"code":1,"indent":null,"parameters":[]}
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 7 ("EV007" @ 8,13)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":250,"indent":0,"parameters":[{"name":"Open1","pan":0,"pitch":100,"volume":80}]}
+        {"code":17,"indent":null,"parameters":[]}
+        {"code":15,"indent":null,"parameters":[3]}
+        {"code":18,"indent":null,"parameters":[]}
+        {"code":15,"indent":null,"parameters":[3]}
+        {"code":19,"indent":null,"parameters":[]}
+        {"code":37,"indent":null,"parameters":[]}
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":205,"indent":0,"parameters":[0,{"list":[{"code":17,"indent":null,"parameters":[]},{"code":15,"indent":null,"parameters":[3]},{"code":18,"indent":null,"parameters":[]},{"code":15,"indent":null,"parameters":[3]},{"code":19,"indent":null,"parameters":[]},{"code":37,"indent":null,"parameters":[]},{"code":0,"indent":null,"parameters":[]}],"repeat":false,"skippable":false,"wait":true}]}
+      {"code":505,"indent":0,"parameters":[{"code":17,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":15,"indent":null,"parameters":[3]}]}
+      {"code":505,"indent":0,"parameters":[{"code":18,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":15,"indent":null,"parameters":[3]}]}
+      {"code":505,"indent":0,"parameters":[{"code":19,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":37,"indent":null,"parameters":[]}]}
+        {"code":12,"indent":null,"parameters":[]}
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":205,"indent":0,"parameters":[-1,{"list":[{"code":12,"indent":null,"parameters":[]},{"code":0,"indent":null,"parameters":[]}],"repeat":false,"skippable":true,"wait":true}]}
+      {"code":505,"indent":0,"parameters":[{"code":12,"indent":null,"parameters":[]}]}
+      {"code":250,"indent":0,"parameters":[{"name":"Move","pan":0,"pitch":100,"volume":80}]}
+      {"code":201,"indent":0,"parameters":[0,10,8,11,0,0]}
+      {"code":0,"indent":0,"parameters":[]}
+Map Data/Map008.rvdata2 (Biblioteca)
+  Event 1 ("EV001" @ 7,7)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 2 ("EV002" @ 7,9)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":111,"indent":0,"parameters":[8,8]}
+      {"code":101,"indent":1,"parameters":["Actor4",3,0,2]}
+      {"code":401,"indent":1,"parameters":["Olá como posso ajudar?"]}
+      {"code":102,"indent":1,"parameters":[["Eu vim devolver um livro"],0,0,2,0]}
+      {"code":402,"indent":1,"parameters":[0,"Eu vim devolver um livro"]}
+      {"code":101,"indent":2,"parameters":["Actor4",3,0,2]}
+      {"code":401,"indent":2,"parameters":["Ok, isso será 5 reais"]}
+      {"code":102,"indent":2,"parameters":[["Pagar"],1,0,2,0]}
+      {"code":402,"indent":2,"parameters":[0,"Pagar"]}
+      {"code":125,"indent":3,"parameters":[1,0,5]}
+      {"code":101,"indent":3,"parameters":["",0,0,2]}
+      {"code":401,"indent":3,"parameters":["*Você devolveu o livro"]}
+      {"code":126,"indent":3,"parameters":[6,0,0,1]}
+      {"code":126,"indent":3,"parameters":[8,1,0,1]}
+      {"code":0,"indent":3,"parameters":[]}
+      {"code":404,"indent":2,"parameters":[]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":404,"indent":1,"parameters":[]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":411,"indent":0,"parameters":[]}
+      {"code":101,"indent":1,"parameters":["Actor4",3,0,2]}
+      {"code":401,"indent":1,"parameters":["Olá! quer comprar um livro?"]}
+      {"code":102,"indent":1,"parameters":[["Não"],0,0,2,0]}
+      {"code":402,"indent":1,"parameters":[0,"Não"]}
+      {"code":101,"indent":2,"parameters":["Actor4",3,0,2]}
+      {"code":401,"indent":2,"parameters":["Ok"]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":404,"indent":1,"parameters":[]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":412,"indent":0,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 3 ("EV003" @ 17,25)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":250,"indent":0,"parameters":[{"name":"Open1","pan":0,"pitch":100,"volume":80}]}
+        {"code":17,"indent":null,"parameters":[]}
+        {"code":15,"indent":null,"parameters":[3]}
+        {"code":18,"indent":null,"parameters":[]}
+        {"code":15,"indent":null,"parameters":[3]}
+        {"code":19,"indent":null,"parameters":[]}
+        {"code":37,"indent":null,"parameters":[]}
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":205,"indent":0,"parameters":[0,{"list":[{"code":17,"indent":null,"parameters":[]},{"code":15,"indent":null,"parameters":[3]},{"code":18,"indent":null,"parameters":[]},{"code":15,"indent":null,"parameters":[3]},{"code":19,"indent":null,"parameters":[]},{"code":37,"indent":null,"parameters":[]},{"code":0,"indent":null,"parameters":[]}],"repeat":false,"skippable":false,"wait":true}]}
+      {"code":505,"indent":0,"parameters":[{"code":17,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":15,"indent":null,"parameters":[3]}]}
+      {"code":505,"indent":0,"parameters":[{"code":18,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":15,"indent":null,"parameters":[3]}]}
+      {"code":505,"indent":0,"parameters":[{"code":19,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":37,"indent":null,"parameters":[]}]}
+        {"code":12,"indent":null,"parameters":[]}
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":205,"indent":0,"parameters":[-1,{"list":[{"code":12,"indent":null,"parameters":[]},{"code":0,"indent":null,"parameters":[]}],"repeat":false,"skippable":true,"wait":true}]}
+      {"code":505,"indent":0,"parameters":[{"code":12,"indent":null,"parameters":[]}]}
+      {"code":250,"indent":0,"parameters":[{"name":"Move","pan":0,"pitch":100,"volume":80}]}
+      {"code":201,"indent":0,"parameters":[0,7,26,30,0,0]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 4 ("EV004" @ 8,15)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":101,"indent":0,"parameters":["",0,0,2]}
+      {"code":401,"indent":0,"parameters":["Está escrito: Shhh!"]}
+      {"code":0,"indent":0,"parameters":[]}
+Map Data/Map009.rvdata2 (Padaria)
+  Event 1 ("EV001" @ 8,17)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":250,"indent":0,"parameters":[{"name":"Open1","pan":0,"pitch":100,"volume":80}]}
+        {"code":17,"indent":null,"parameters":[]}
+        {"code":15,"indent":null,"parameters":[3]}
+        {"code":18,"indent":null,"parameters":[]}
+        {"code":15,"indent":null,"parameters":[3]}
+        {"code":19,"indent":null,"parameters":[]}
+        {"code":37,"indent":null,"parameters":[]}
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":205,"indent":0,"parameters":[0,{"list":[{"code":17,"indent":null,"parameters":[]},{"code":15,"indent":null,"parameters":[3]},{"code":18,"indent":null,"parameters":[]},{"code":15,"indent":null,"parameters":[3]},{"code":19,"indent":null,"parameters":[]},{"code":37,"indent":null,"parameters":[]},{"code":0,"indent":null,"parameters":[]}],"repeat":false,"skippable":false,"wait":true}]}
+      {"code":505,"indent":0,"parameters":[{"code":17,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":15,"indent":null,"parameters":[3]}]}
+      {"code":505,"indent":0,"parameters":[{"code":18,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":15,"indent":null,"parameters":[3]}]}
+      {"code":505,"indent":0,"parameters":[{"code":19,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":37,"indent":null,"parameters":[]}]}
+        {"code":12,"indent":null,"parameters":[]}
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":205,"indent":0,"parameters":[-1,{"list":[{"code":12,"indent":null,"parameters":[]},{"code":0,"indent":null,"parameters":[]}],"repeat":false,"skippable":true,"wait":true}]}
+      {"code":505,"indent":0,"parameters":[{"code":12,"indent":null,"parameters":[]}]}
+      {"code":250,"indent":0,"parameters":[{"name":"Move","pan":0,"pitch":100,"volume":80}]}
+      {"code":201,"indent":0,"parameters":[0,7,17,36,0,0]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 2 ("EV002" @ 9,6)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 3 ("EV003" @ 10,7)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":101,"indent":0,"parameters":["mama ua u",1,0,2]}
+      {"code":401,"indent":0,"parameters":["Mama mia! quer comprar este pãozito por "]}
+      {"code":401,"indent":0,"parameters":["5 realzitos?"]}
+      {"code":102,"indent":0,"parameters":[["Sim", "Não"],1,0,2,0]}
+      {"code":402,"indent":0,"parameters":[0,"Sim"]}
+      {"code":111,"indent":1,"parameters":[7,15,0]}
+      {"code":125,"indent":2,"parameters":[1,0,5]}
+      {"code":101,"indent":2,"parameters":["mama ua u",1,0,2]}
+      {"code":401,"indent":2,"parameters":["Prazer fazer negócios com você "]}
+      {"code":126,"indent":2,"parameters":[1,0,0,1]}
+      {"code":101,"indent":2,"parameters":["",0,0,2]}
+      {"code":401,"indent":2,"parameters":["*agora você tem 10 reais!*"]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":411,"indent":1,"parameters":[]}
+      {"code":101,"indent":2,"parameters":["mama ua u",1,0,2]}
+      {"code":401,"indent":2,"parameters":["... mas você nem tem dinheiro"]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":412,"indent":1,"parameters":[]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":402,"indent":0,"parameters":[1,"Não"]}
+      {"code":101,"indent":1,"parameters":["",0,0,2]}
+      {"code":401,"indent":1,"parameters":["Ta bom então..."]}
+      {"code":101,"indent":1,"parameters":["",0,0,2]}
+      {"code":401,"indent":1,"parameters":["eu sou um fracasso"]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":404,"indent":0,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+Map Data/Map010.rvdata2 (Escola)
+  Event 1 ("EV001" @ 1,10)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":250,"indent":0,"parameters":[{"name":"Open1","pan":0,"pitch":100,"volume":80}]}
+        {"code":17,"indent":null,"parameters":[]}
+        {"code":15,"indent":null,"parameters":[3]}
+        {"code":18,"indent":null,"parameters":[]}
+        {"code":15,"indent":null,"parameters":[3]}
+        {"code":19,"indent":null,"parameters":[]}
+        {"code":37,"indent":null,"parameters":[]}
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":205,"indent":0,"parameters":[0,{"list":[{"code":17,"indent":null,"parameters":[]},{"code":15,"indent":null,"parameters":[3]},{"code":18,"indent":null,"parameters":[]},{"code":15,"indent":null,"parameters":[3]},{"code":19,"indent":null,"parameters":[]},{"code":37,"indent":null,"parameters":[]},{"code":0,"indent":null,"parameters":[]}],"repeat":false,"skippable":false,"wait":true}]}
+      {"code":505,"indent":0,"parameters":[{"code":17,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":15,"indent":null,"parameters":[3]}]}
+      {"code":505,"indent":0,"parameters":[{"code":18,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":15,"indent":null,"parameters":[3]}]}
+      {"code":505,"indent":0,"parameters":[{"code":19,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":37,"indent":null,"parameters":[]}]}
+        {"code":12,"indent":null,"parameters":[]}
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":205,"indent":0,"parameters":[-1,{"list":[{"code":12,"indent":null,"parameters":[]},{"code":0,"indent":null,"parameters":[]}],"repeat":false,"skippable":true,"wait":true}]}
+      {"code":505,"indent":0,"parameters":[{"code":12,"indent":null,"parameters":[]}]}
+      {"code":250,"indent":0,"parameters":[{"name":"Move","pan":0,"pitch":100,"volume":80}]}
+      {"code":201,"indent":0,"parameters":[0,12,1,12,0,0]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 2 ("EV002" @ 15,10)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":250,"indent":0,"parameters":[{"name":"Open1","pan":0,"pitch":100,"volume":80}]}
+        {"code":17,"indent":null,"parameters":[]}
+        {"code":15,"indent":null,"parameters":[3]}
+        {"code":18,"indent":null,"parameters":[]}
+        {"code":15,"indent":null,"parameters":[3]}
+        {"code":19,"indent":null,"parameters":[]}
+        {"code":37,"indent":null,"parameters":[]}
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":205,"indent":0,"parameters":[0,{"list":[{"code":17,"indent":null,"parameters":[]},{"code":15,"indent":null,"parameters":[3]},{"code":18,"indent":null,"parameters":[]},{"code":15,"indent":null,"parameters":[3]},{"code":19,"indent":null,"parameters":[]},{"code":37,"indent":null,"parameters":[]},{"code":0,"indent":null,"parameters":[]}],"repeat":false,"skippable":false,"wait":true}]}
+      {"code":505,"indent":0,"parameters":[{"code":17,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":15,"indent":null,"parameters":[3]}]}
+      {"code":505,"indent":0,"parameters":[{"code":18,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":15,"indent":null,"parameters":[3]}]}
+      {"code":505,"indent":0,"parameters":[{"code":19,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":37,"indent":null,"parameters":[]}]}
+        {"code":12,"indent":null,"parameters":[]}
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":205,"indent":0,"parameters":[-1,{"list":[{"code":12,"indent":null,"parameters":[]},{"code":0,"indent":null,"parameters":[]}],"repeat":false,"skippable":true,"wait":true}]}
+      {"code":505,"indent":0,"parameters":[{"code":12,"indent":null,"parameters":[]}]}
+      {"code":250,"indent":0,"parameters":[{"name":"Move","pan":0,"pitch":100,"volume":80}]}
+      {"code":201,"indent":0,"parameters":[0,13,1,12,0,0]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 3 ("EV003" @ 8,12)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":250,"indent":0,"parameters":[{"name":"Open1","pan":0,"pitch":100,"volume":80}]}
+        {"code":17,"indent":null,"parameters":[]}
+        {"code":15,"indent":null,"parameters":[3]}
+        {"code":18,"indent":null,"parameters":[]}
+        {"code":15,"indent":null,"parameters":[3]}
+        {"code":19,"indent":null,"parameters":[]}
+        {"code":37,"indent":null,"parameters":[]}
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":205,"indent":0,"parameters":[0,{"list":[{"code":17,"indent":null,"parameters":[]},{"code":15,"indent":null,"parameters":[3]},{"code":18,"indent":null,"parameters":[]},{"code":15,"indent":null,"parameters":[3]},{"code":19,"indent":null,"parameters":[]},{"code":37,"indent":null,"parameters":[]},{"code":0,"indent":null,"parameters":[]}],"repeat":false,"skippable":false,"wait":true}]}
+      {"code":505,"indent":0,"parameters":[{"code":17,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":15,"indent":null,"parameters":[3]}]}
+      {"code":505,"indent":0,"parameters":[{"code":18,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":15,"indent":null,"parameters":[3]}]}
+      {"code":505,"indent":0,"parameters":[{"code":19,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":37,"indent":null,"parameters":[]}]}
+        {"code":12,"indent":null,"parameters":[]}
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":205,"indent":0,"parameters":[-1,{"list":[{"code":12,"indent":null,"parameters":[]},{"code":0,"indent":null,"parameters":[]}],"repeat":false,"skippable":true,"wait":true}]}
+      {"code":505,"indent":0,"parameters":[{"code":12,"indent":null,"parameters":[]}]}
+      {"code":250,"indent":0,"parameters":[{"name":"Move","pan":0,"pitch":100,"volume":80}]}
+      {"code":201,"indent":0,"parameters":[0,10,8,12,0,0]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 4 ("EV004" @ 8,11)
+    Page 1
+        {"code":2,"indent":null,"parameters":[]}
+        {"code":2,"indent":null,"parameters":[]}
+        {"code":2,"indent":null,"parameters":[]}
+        {"code":2,"indent":null,"parameters":[]}
+        {"code":2,"indent":null,"parameters":[]}
+        {"code":2,"indent":null,"parameters":[]}
+        {"code":2,"indent":null,"parameters":[]}
+        {"code":4,"indent":null,"parameters":[]}
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":101,"indent":0,"parameters":["mamae",0,0,2]}
+      {"code":401,"indent":0,"parameters":["Boa aula filho!"]}
+      {"code":221,"indent":0,"parameters":[]}
+      {"code":201,"indent":0,"parameters":[0,12,2,12,0,0]}
+      {"code":222,"indent":0,"parameters":[]}
+      {"code":101,"indent":0,"parameters":["Actor5",4,0,2]}
+      {"code":401,"indent":0,"parameters":["VOCÊ ESTÁ ATRASADO!!!!"]}
+      {"code":101,"indent":0,"parameters":["Actor5",4,0,2]}
+      {"code":401,"indent":0,"parameters":["Ah, tanto faz, só vai pra sua carteira"]}
+      {"code":126,"indent":0,"parameters":[16,0,0,1]}
+      {"code":0,"indent":0,"parameters":[]}
+Map Data/Map011.rvdata2 (Cantina)
+  Event 1 ("EV001" @ 7,2)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 2 ("EV002" @ 7,4)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":101,"indent":0,"parameters":["çlk",0,0,2]}
+      {"code":401,"indent":0,"parameters":["Oi! quer comprar alguma coisa?"]}
+      {"code":102,"indent":0,"parameters":[["Nada não.", "Pedaço de Pizza (5)", "Pedaço de bolo  (3)", "Pedaço de Torta (3)"],0,0,2,0]}
+      {"code":402,"indent":0,"parameters":[0,"Nada não."]}
+      {"code":101,"indent":1,"parameters":["çlk",0,0,2]}
+      {"code":401,"indent":1,"parameters":["Ok então!"]}
+      {"code":401,"indent":1,"parameters":["Bom lanche!"]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":402,"indent":0,"parameters":[1,"Pedaço de Pizza (5)"]}
+      {"code":101,"indent":1,"parameters":["çlk",0,0,2]}
+      {"code":401,"indent":1,"parameters":["Aqui está a sua pizza!"]}
+      {"code":126,"indent":1,"parameters":[7,0,0,1]}
+      {"code":125,"indent":1,"parameters":[1,0,5]}
+      {"code":126,"indent":1,"parameters":[16,0,0,1]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":402,"indent":0,"parameters":[2,"Pedaço de bolo  (3)"]}
+      {"code":101,"indent":1,"parameters":["çlk",0,0,2]}
+      {"code":401,"indent":1,"parameters":["Aqui está o seu bolinho!"]}
+      {"code":126,"indent":1,"parameters":[5,0,0,1]}
+      {"code":125,"indent":1,"parameters":[1,0,3]}
+      {"code":126,"indent":1,"parameters":[16,0,0,1]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":402,"indent":0,"parameters":[3,"Pedaço de Torta (3)"]}
+      {"code":101,"indent":1,"parameters":["çlk",0,0,2]}
+      {"code":401,"indent":1,"parameters":["Aqui está a sua torta que não é reta!"]}
+      {"code":126,"indent":1,"parameters":[3,0,0,1]}
+      {"code":125,"indent":1,"parameters":[1,0,3]}
+      {"code":126,"indent":1,"parameters":[16,0,0,1]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":404,"indent":0,"parameters":[]}
+      {"code":101,"indent":0,"parameters":["çlk",0,0,2]}
+      {"code":401,"indent":0,"parameters":["Vá para a mesa comer a sua comidinha!"]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 3 ("EV003" @ 5,10)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 4 ("EV004" @ 8,12)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":111,"indent":0,"parameters":[8,14]}
+      {"code":250,"indent":1,"parameters":[{"name":"Open1","pan":0,"pitch":100,"volume":80}]}
+        {"code":17,"indent":null,"parameters":[]}
+        {"code":15,"indent":null,"parameters":[3]}
+        {"code":18,"indent":null,"parameters":[]}
+        {"code":15,"indent":null,"parameters":[3]}
+        {"code":19,"indent":null,"parameters":[]}
+        {"code":37,"indent":null,"parameters":[]}
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":205,"indent":1,"parameters":[0,{"list":[{"code":17,"indent":null,"parameters":[]},{"code":15,"indent":null,"parameters":[3]},{"code":18,"indent":null,"parameters":[]},{"code":15,"indent":null,"parameters":[3]},{"code":19,"indent":null,"parameters":[]},{"code":37,"indent":null,"parameters":[]},{"code":0,"indent":null,"parameters":[]}],"repeat":false,"skippable":false,"wait":true}]}
+      {"code":505,"indent":1,"parameters":[{"code":17,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":1,"parameters":[{"code":15,"indent":null,"parameters":[3]}]}
+      {"code":505,"indent":1,"parameters":[{"code":18,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":1,"parameters":[{"code":15,"indent":null,"parameters":[3]}]}
+      {"code":505,"indent":1,"parameters":[{"code":19,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":1,"parameters":[{"code":37,"indent":null,"parameters":[]}]}
+        {"code":12,"indent":null,"parameters":[]}
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":205,"indent":1,"parameters":[-1,{"list":[{"code":12,"indent":null,"parameters":[]},{"code":0,"indent":null,"parameters":[]}],"repeat":false,"skippable":true,"wait":true}]}
+      {"code":505,"indent":1,"parameters":[{"code":12,"indent":null,"parameters":[]}]}
+      {"code":250,"indent":1,"parameters":[{"name":"Move","pan":0,"pitch":100,"volume":80}]}
+      {"code":201,"indent":1,"parameters":[0,15,15,5,0,0]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":411,"indent":0,"parameters":[]}
+      {"code":101,"indent":1,"parameters":["",0,0,2]}
+      {"code":401,"indent":1,"parameters":["É hora do lanche e o sinal não bateu ainda,"]}
+      {"code":401,"indent":1,"parameters":["Vá lanchar!!!"]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":412,"indent":0,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 5 ("EV005" @ 12,7)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 6 ("EV006" @ 4,7)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 7 ("EV007" @ 11,10)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":101,"indent":0,"parameters":["Actor5",2,0,2]}
+      {"code":401,"indent":0,"parameters":["\\{\\{\\{\\{\\{\\{\\{\\{\\{\\{\\{Tá frio né?"]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 8 ("EV008" @ 7,7)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":111,"indent":0,"parameters":[8,16]}
+      {"code":101,"indent":1,"parameters":["",0,0,2]}
+      {"code":401,"indent":1,"parameters":["\\{\\{\\{\\{\\{Sentar-se aqui?"]}
+      {"code":102,"indent":1,"parameters":[["Sim"],-1,0,2,0]}
+      {"code":402,"indent":1,"parameters":[0,"Sim"]}
+      {"code":102,"indent":2,"parameters":[["Sim"],-1,0,2,0]}
+      {"code":402,"indent":2,"parameters":[0,"Sim"]}
+      {"code":111,"indent":3,"parameters":[8,7]}
+      {"code":101,"indent":4,"parameters":["",0,0,2]}
+      {"code":401,"indent":4,"parameters":["Comer Pizza?"]}
+      {"code":102,"indent":4,"parameters":[["Sim"],1,0,2,0]}
+      {"code":402,"indent":4,"parameters":[0,"Sim"]}
+      {"code":101,"indent":5,"parameters":["OHNAO",0,0,2]}
+      {"code":401,"indent":5,"parameters":["*nom* Huum!!! Que delícia"]}
+      {"code":101,"indent":5,"parameters":["",0,0,2]}
+      {"code":401,"indent":5,"parameters":["*Triimmmm*"]}
+      {"code":101,"indent":5,"parameters":["OHNAO",0,0,2]}
+      {"code":401,"indent":5,"parameters":["É hora da aula! tenho quer me apressar!"]}
+      {"code":126,"indent":5,"parameters":[7,1,0,1]}
+      {"code":126,"indent":5,"parameters":[16,1,0,12]}
+      {"code":126,"indent":5,"parameters":[14,0,0,1]}
+      {"code":311,"indent":5,"parameters":[0,1,0,0,200,false]}
+      {"code":0,"indent":5,"parameters":[]}
+      {"code":404,"indent":4,"parameters":[]}
+      {"code":0,"indent":4,"parameters":[]}
+      {"code":411,"indent":3,"parameters":[]}
+      {"code":111,"indent":4,"parameters":[8,5]}
+      {"code":101,"indent":5,"parameters":["",0,0,2]}
+      {"code":401,"indent":5,"parameters":["Comer bolo?"]}
+      {"code":102,"indent":5,"parameters":[["Sim"],1,0,2,0]}
+      {"code":402,"indent":5,"parameters":[0,"Sim"]}
+      {"code":101,"indent":6,"parameters":["OHNAO",0,0,2]}
+      {"code":401,"indent":6,"parameters":["*Nom* Huuum!!!! que bolo gostoso!"]}
+      {"code":101,"indent":6,"parameters":["",0,0,2]}
+      {"code":401,"indent":6,"parameters":["*Triimmmm*"]}
+      {"code":101,"indent":6,"parameters":["OHNAO",0,0,2]}
+      {"code":401,"indent":6,"parameters":["É hora da aula! tenho quer me apressar!"]}
+      {"code":126,"indent":6,"parameters":[5,1,0,1]}
+      {"code":126,"indent":6,"parameters":[16,1,0,99]}
+      {"code":126,"indent":6,"parameters":[14,0,0,1]}
+      {"code":0,"indent":6,"parameters":[]}
+      {"code":404,"indent":5,"parameters":[]}
+      {"code":0,"indent":5,"parameters":[]}
+      {"code":411,"indent":4,"parameters":[]}
+      {"code":111,"indent":5,"parameters":[8,3]}
+      {"code":101,"indent":6,"parameters":["",0,0,2]}
+      {"code":401,"indent":6,"parameters":["Comer Torta?"]}
+      {"code":102,"indent":6,"parameters":[["Sim"],1,0,2,0]}
+      {"code":402,"indent":6,"parameters":[0,"Sim"]}
+      {"code":101,"indent":7,"parameters":["OHNAO",0,0,2]}
+      {"code":401,"indent":7,"parameters":["*Nom* Huuum!!!! que Torta boa!!"]}
+      {"code":101,"indent":7,"parameters":["",0,0,2]}
+      {"code":401,"indent":7,"parameters":["*Triimmmm*"]}
+      {"code":101,"indent":7,"parameters":["OHNAO",0,0,2]}
+      {"code":401,"indent":7,"parameters":["É hora da aula! tenho quer me apressar!"]}
+      {"code":126,"indent":7,"parameters":[3,1,0,1]}
+      {"code":126,"indent":7,"parameters":[16,1,0,99]}
+      {"code":126,"indent":7,"parameters":[14,0,0,1]}
+      {"code":311,"indent":7,"parameters":[0,1,0,0,9999,false]}
+      {"code":0,"indent":7,"parameters":[]}
+      {"code":404,"indent":6,"parameters":[]}
+      {"code":0,"indent":6,"parameters":[]}
+      {"code":411,"indent":5,"parameters":[]}
+      {"code":0,"indent":6,"parameters":[]}
+      {"code":412,"indent":5,"parameters":[]}
+      {"code":0,"indent":5,"parameters":[]}
+      {"code":412,"indent":4,"parameters":[]}
+      {"code":0,"indent":4,"parameters":[]}
+      {"code":412,"indent":3,"parameters":[]}
+      {"code":0,"indent":3,"parameters":[]}
+      {"code":404,"indent":2,"parameters":[]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":404,"indent":1,"parameters":[]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":411,"indent":0,"parameters":[]}
+      {"code":111,"indent":1,"parameters":[8,14]}
+      {"code":101,"indent":2,"parameters":["",0,0,2]}
+      {"code":401,"indent":2,"parameters":[""]}
+      {"code":101,"indent":2,"parameters":["",0,0,2]}
+      {"code":401,"indent":2,"parameters":["Corre pra aula!!"]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":411,"indent":1,"parameters":[]}
+      {"code":101,"indent":2,"parameters":["",0,0,2]}
+      {"code":401,"indent":2,"parameters":["vai comprar o lanche, quer morrer de fome?"]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":412,"indent":1,"parameters":[]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":412,"indent":0,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 9 ("EV009" @ 5,6)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":125,"indent":0,"parameters":[0,0,193234]}
+      {"code":0,"indent":0,"parameters":[]}
+Map Data/Map012.rvdata2 (Sala de Aula)
+  Event 1 ("EV001" @ 6,10)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 2 ("EV002" @ 6,12)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 3 ("EV003" @ 8,12)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 4 ("EV004" @ 10,12)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 5 ("EV005" @ 10,10)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 6 ("EV006" @ 1,12)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":250,"indent":0,"parameters":[{"name":"Open1","pan":0,"pitch":100,"volume":80}]}
+        {"code":17,"indent":null,"parameters":[]}
+        {"code":15,"indent":null,"parameters":[3]}
+        {"code":18,"indent":null,"parameters":[]}
+        {"code":15,"indent":null,"parameters":[3]}
+        {"code":19,"indent":null,"parameters":[]}
+        {"code":37,"indent":null,"parameters":[]}
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":205,"indent":0,"parameters":[0,{"list":[{"code":17,"indent":null,"parameters":[]},{"code":15,"indent":null,"parameters":[3]},{"code":18,"indent":null,"parameters":[]},{"code":15,"indent":null,"parameters":[3]},{"code":19,"indent":null,"parameters":[]},{"code":37,"indent":null,"parameters":[]},{"code":0,"indent":null,"parameters":[]}],"repeat":false,"skippable":false,"wait":true}]}
+      {"code":505,"indent":0,"parameters":[{"code":17,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":15,"indent":null,"parameters":[3]}]}
+      {"code":505,"indent":0,"parameters":[{"code":18,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":15,"indent":null,"parameters":[3]}]}
+      {"code":505,"indent":0,"parameters":[{"code":19,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":37,"indent":null,"parameters":[]}]}
+        {"code":12,"indent":null,"parameters":[]}
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":205,"indent":0,"parameters":[-1,{"list":[{"code":12,"indent":null,"parameters":[]},{"code":0,"indent":null,"parameters":[]}],"repeat":false,"skippable":true,"wait":true}]}
+      {"code":505,"indent":0,"parameters":[{"code":12,"indent":null,"parameters":[]}]}
+      {"code":250,"indent":0,"parameters":[{"name":"Move","pan":0,"pitch":100,"volume":80}]}
+      {"code":201,"indent":0,"parameters":[0,10,1,11,0,0]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 7 ("EV007" @ 14,5)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 8 ("EV008" @ 8,10)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":111,"indent":0,"parameters":[8,16]}
+      {"code":101,"indent":1,"parameters":["Actor5",4,0,2]}
+      {"code":401,"indent":1,"parameters":["Agora que todos estão aqui podemos começar a aula."]}
+      {"code":101,"indent":1,"parameters":["Actor5",4,0,2]}
+      {"code":401,"indent":1,"parameters":["Peguem esses papéis e caneta."]}
+      {"code":221,"indent":1,"parameters":[]}
+      {"code":201,"indent":1,"parameters":[0,14,8,10,0,0]}
+      {"code":222,"indent":1,"parameters":[]}
+      {"code":213,"indent":1,"parameters":[0,1,false]}
+      {"code":101,"indent":1,"parameters":["Actor5",4,0,2]}
+      {"code":401,"indent":1,"parameters":["Hoje vamos ver se vocês aprenderam algo ou"]}
+      {"code":401,"indent":1,"parameters":["se continuaram burros, PORQUE HOJE É DIA DE"]}
+      {"code":401,"indent":1,"parameters":["PROVA SURPRESA!!!!"]}
+      {"code":401,"indent":1,"parameters":["SURPRESA!!!! MUAHAHAHAHA!!!!"]}
+      {"code":241,"indent":1,"parameters":[{"name":"he-128","pan":0,"pitch":100,"volume":0}]}
+      {"code":261,"indent":1,"parameters":["ProvAAAgAAAAAA"]}
+      {"code":241,"indent":1,"parameters":[{"name":"he-128","pan":0,"pitch":100,"volume":100}]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":411,"indent":0,"parameters":[]}
+      {"code":101,"indent":1,"parameters":["Actor5",4,0,2]}
+      {"code":401,"indent":1,"parameters":["\\}Joãozinho tirou: 4"]}
+      {"code":401,"indent":1,"parameters":["Maria tirou: 8"]}
+      {"code":401,"indent":1,"parameters":["Sofia tirou: 7"]}
+      {"code":401,"indent":1,"parameters":["Ster tirou: 0 e.."]}
+      {"code":101,"indent":1,"parameters":["Actor5",4,0,2]}
+      {"code":401,"indent":1,"parameters":["QUEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE"]}
+      {"code":401,"indent":1,"parameters":["EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE"]}
+      {"code":401,"indent":1,"parameters":["EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE"]}
+      {"code":401,"indent":1,"parameters":["EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE"]}
+      {"code":101,"indent":1,"parameters":["Actor5",4,0,2]}
+      {"code":401,"indent":1,"parameters":["COMO QUE ELE TIROU DEZ- *Desmaia*"]}
+      {"code":101,"indent":1,"parameters":["OHNAO",0,0,2]}
+      {"code":401,"indent":1,"parameters":["Opa! Tirei a maior nota da sala! eu tenho que"]}
+      {"code":401,"indent":1,"parameters":["mostrar isso pra minha mãe! ela vai ficar tão "]}
+      {"code":401,"indent":1,"parameters":["orgulhosa de mim! 😃"]}
+      {"code":221,"indent":1,"parameters":[]}
+      {"code":201,"indent":1,"parameters":[0,17,5,14,0,0]}
+      {"code":126,"indent":1,"parameters":[2,0,0,1]}
+      {"code":222,"indent":1,"parameters":[]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":412,"indent":0,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+Map Data/Map013.rvdata2 ()
+  Event 1 ("EV001" @ 1,12)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":250,"indent":0,"parameters":[{"name":"Open1","pan":0,"pitch":100,"volume":80}]}
+        {"code":17,"indent":null,"parameters":[]}
+        {"code":15,"indent":null,"parameters":[3]}
+        {"code":18,"indent":null,"parameters":[]}
+        {"code":15,"indent":null,"parameters":[3]}
+        {"code":19,"indent":null,"parameters":[]}
+        {"code":37,"indent":null,"parameters":[]}
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":205,"indent":0,"parameters":[0,{"list":[{"code":17,"indent":null,"parameters":[]},{"code":15,"indent":null,"parameters":[3]},{"code":18,"indent":null,"parameters":[]},{"code":15,"indent":null,"parameters":[3]},{"code":19,"indent":null,"parameters":[]},{"code":37,"indent":null,"parameters":[]},{"code":0,"indent":null,"parameters":[]}],"repeat":false,"skippable":false,"wait":true}]}
+      {"code":505,"indent":0,"parameters":[{"code":17,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":15,"indent":null,"parameters":[3]}]}
+      {"code":505,"indent":0,"parameters":[{"code":18,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":15,"indent":null,"parameters":[3]}]}
+      {"code":505,"indent":0,"parameters":[{"code":19,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":37,"indent":null,"parameters":[]}]}
+        {"code":12,"indent":null,"parameters":[]}
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":205,"indent":0,"parameters":[-1,{"list":[{"code":12,"indent":null,"parameters":[]},{"code":0,"indent":null,"parameters":[]}],"repeat":false,"skippable":true,"wait":true}]}
+      {"code":505,"indent":0,"parameters":[{"code":12,"indent":null,"parameters":[]}]}
+      {"code":250,"indent":0,"parameters":[{"name":"Move","pan":0,"pitch":100,"volume":80}]}
+      {"code":201,"indent":0,"parameters":[0,10,15,11,0,0]}
+      {"code":0,"indent":0,"parameters":[]}
+Map Data/Map014.rvdata2 ()
+  Event 1 ("EV001" @ 6,10)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 2 ("EV002" @ 6,12)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 3 ("EV003" @ 8,12)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 4 ("EV004" @ 10,12)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 5 ("EV005" @ 10,10)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 6 ("EV006" @ 1,12)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":250,"indent":0,"parameters":[{"name":"Open1","pan":0,"pitch":100,"volume":80}]}
+        {"code":17,"indent":null,"parameters":[]}
+        {"code":15,"indent":null,"parameters":[3]}
+        {"code":18,"indent":null,"parameters":[]}
+        {"code":15,"indent":null,"parameters":[3]}
+        {"code":19,"indent":null,"parameters":[]}
+        {"code":37,"indent":null,"parameters":[]}
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":205,"indent":0,"parameters":[0,{"list":[{"code":17,"indent":null,"parameters":[]},{"code":15,"indent":null,"parameters":[3]},{"code":18,"indent":null,"parameters":[]},{"code":15,"indent":null,"parameters":[3]},{"code":19,"indent":null,"parameters":[]},{"code":37,"indent":null,"parameters":[]},{"code":0,"indent":null,"parameters":[]}],"repeat":false,"skippable":false,"wait":true}]}
+      {"code":505,"indent":0,"parameters":[{"code":17,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":15,"indent":null,"parameters":[3]}]}
+      {"code":505,"indent":0,"parameters":[{"code":18,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":15,"indent":null,"parameters":[3]}]}
+      {"code":505,"indent":0,"parameters":[{"code":19,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":37,"indent":null,"parameters":[]}]}
+        {"code":12,"indent":null,"parameters":[]}
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":205,"indent":0,"parameters":[-1,{"list":[{"code":12,"indent":null,"parameters":[]},{"code":0,"indent":null,"parameters":[]}],"repeat":false,"skippable":true,"wait":true}]}
+      {"code":505,"indent":0,"parameters":[{"code":12,"indent":null,"parameters":[]}]}
+      {"code":250,"indent":0,"parameters":[{"name":"Move","pan":0,"pitch":100,"volume":80}]}
+      {"code":201,"indent":0,"parameters":[0,15,1,11,0,0]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 7 ("EV007" @ 14,5)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 8 ("EV008" @ 7,10)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":101,"indent":0,"parameters":["Actor5",4,0,2]}
+      {"code":401,"indent":0,"parameters":["VOLTE PARA O SEU LUGAR!"]}
+      {"code":201,"indent":0,"parameters":[0,14,8,10,0,0]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 9 ("EV009" @ 8,10)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":112,"indent":0,"parameters":[]}
+      {"code":101,"indent":1,"parameters":["",0,0,2]}
+      {"code":401,"indent":1,"parameters":["Questão 1: Qual é a raiz quadrada de 4?"]}
+      {"code":102,"indent":1,"parameters":[["4", "2", "3", "5"],-1,0,2,0]}
+      {"code":402,"indent":1,"parameters":[0,"4"]}
+      {"code":101,"indent":2,"parameters":["",0,0,2]}
+      {"code":401,"indent":2,"parameters":["Você sente que errou, então decide passar a "]}
+      {"code":401,"indent":2,"parameters":["prova a limpo."]}
+      {"code":249,"indent":2,"parameters":[{"name":"incorrect-sound-effect","pan":0,"pitch":100,"volume":95}]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":402,"indent":1,"parameters":[1,"2"]}
+      {"code":101,"indent":2,"parameters":["",0,0,2]}
+      {"code":401,"indent":2,"parameters":["Você tem o pressentimento que acertou!"]}
+      {"code":401,"indent":2,"parameters":["então você vai para a próxima questão."]}
+      {"code":101,"indent":2,"parameters":["",0,0,2]}
+      {"code":401,"indent":2,"parameters":["Questão 2: Qual é o nome do estado que "]}
+      {"code":401,"indent":2,"parameters":["usa a sigla MG?"]}
+      {"code":102,"indent":2,"parameters":[["Mato grosso", "Minas gerais", "Mamão grosso", "Mapa Gentil"],-1,0,2,0]}
+      {"code":402,"indent":2,"parameters":[0,"Mato grosso"]}
+      {"code":101,"indent":3,"parameters":["",0,0,2]}
+      {"code":401,"indent":3,"parameters":["Você sente que errou então decide passar a"]}
+      {"code":401,"indent":3,"parameters":["prova a limpo"]}
+      {"code":0,"indent":3,"parameters":[]}
+      {"code":402,"indent":2,"parameters":[1,"Minas gerais"]}
+      {"code":101,"indent":3,"parameters":["",0,0,2]}
+      {"code":401,"indent":3,"parameters":["Você sente que acertou! vamos para a "]}
+      {"code":401,"indent":3,"parameters":["próxima questão!"]}
+      {"code":101,"indent":3,"parameters":["",0,0,2]}
+      {"code":401,"indent":3,"parameters":["Questão 3: Qual é o povo que inventou a "]}
+      {"code":401,"indent":3,"parameters":["roda?"]}
+      {"code":102,"indent":3,"parameters":[["Mesopotâmea", "China", "Egito", "Espanha"],-1,0,2,0]}
+      {"code":402,"indent":3,"parameters":[0,"Mesopotâmea"]}
+      {"code":101,"indent":4,"parameters":["",0,0,2]}
+      {"code":401,"indent":4,"parameters":["Você sente que acertou!!! vamos para a "]}
+      {"code":401,"indent":4,"parameters":["próxima questão!"]}
+      {"code":101,"indent":4,"parameters":["",0,0,2]}
+      {"code":401,"indent":4,"parameters":["Questão 4: Qual é o contrário do inverso"]}
+      {"code":401,"indent":4,"parameters":["invertido e espelhado da palavra não?"]}
+      {"code":102,"indent":4,"parameters":[["Sim", "miS", "Não", "oãN"],-1,0,2,0]}
+      {"code":402,"indent":4,"parameters":[0,"Sim"]}
+      {"code":101,"indent":5,"parameters":["",0,0,2]}
+      {"code":401,"indent":5,"parameters":["Você sente que errou então decide passar a"]}
+      {"code":401,"indent":5,"parameters":["prova a limpo"]}
+      {"code":249,"indent":5,"parameters":[{"name":"incorrect-sound-effect","pan":0,"pitch":100,"volume":95}]}
+      {"code":0,"indent":5,"parameters":[]}
+      {"code":402,"indent":4,"parameters":[1,"miS"]}
+      {"code":101,"indent":5,"parameters":["",0,0,2]}
+      {"code":401,"indent":5,"parameters":["Isso! Você sente que acertou a última questão da prova! "]}
+      {"code":101,"indent":5,"parameters":["OHNAO",0,0,2]}
+      {"code":401,"indent":5,"parameters":["Professora..."]}
+      {"code":401,"indent":5,"parameters":["Acabei a prova"]}
+      {"code":101,"indent":5,"parameters":["Actor5",4,0,2]}
+      {"code":401,"indent":5,"parameters":["Ok, espere os outros terminarem."]}
+      {"code":221,"indent":5,"parameters":[]}
+      {"code":222,"indent":5,"parameters":[]}
+      {"code":101,"indent":5,"parameters":["Actor5",4,0,2]}
+      {"code":401,"indent":5,"parameters":["Todo mundo acabou?"]}
+      {"code":101,"indent":5,"parameters":["OHNAO",0,0,2]}
+      {"code":401,"indent":5,"parameters":["Acho que sim professora"]}
+      {"code":101,"indent":5,"parameters":["Actor5",4,0,2]}
+      {"code":401,"indent":5,"parameters":["Ok, vão para o lanche enquanto eu corrijo as"]}
+      {"code":401,"indent":5,"parameters":["provas"]}
+      {"code":201,"indent":5,"parameters":[0,11,8,11,0,0]}
+      {"code":113,"indent":5,"parameters":[]}
+      {"code":0,"indent":5,"parameters":[]}
+      {"code":402,"indent":4,"parameters":[2,"Não"]}
+      {"code":101,"indent":5,"parameters":["",0,0,2]}
+      {"code":401,"indent":5,"parameters":["Você sente que errou então decide passar a"]}
+      {"code":401,"indent":5,"parameters":["prova a limpo"]}
+      {"code":249,"indent":5,"parameters":[{"name":"incorrect-sound-effect","pan":0,"pitch":100,"volume":95}]}
+      {"code":0,"indent":5,"parameters":[]}
+      {"code":402,"indent":4,"parameters":[3,"oãN"]}
+      {"code":101,"indent":5,"parameters":["",0,0,2]}
+      {"code":401,"indent":5,"parameters":["Você sente que errou então decide passar a"]}
+      {"code":401,"indent":5,"parameters":["prova a limpo"]}
+      {"code":249,"indent":5,"parameters":[{"name":"incorrect-sound-effect","pan":0,"pitch":100,"volume":95}]}
+      {"code":0,"indent":5,"parameters":[]}
+      {"code":404,"indent":4,"parameters":[]}
+      {"code":0,"indent":4,"parameters":[]}
+      {"code":402,"indent":3,"parameters":[1,"China"]}
+      {"code":101,"indent":4,"parameters":["",0,0,2]}
+      {"code":401,"indent":4,"parameters":["Você sente que errou então decide passar a"]}
+      {"code":401,"indent":4,"parameters":["prova a limpo"]}
+      {"code":249,"indent":4,"parameters":[{"name":"incorrect-sound-effect","pan":0,"pitch":100,"volume":95}]}
+      {"code":0,"indent":4,"parameters":[]}
+      {"code":402,"indent":3,"parameters":[2,"Egito"]}
+      {"code":101,"indent":4,"parameters":["",0,0,2]}
+      {"code":401,"indent":4,"parameters":["Você sente que errou então decide passar a"]}
+      {"code":401,"indent":4,"parameters":["prova a limpo"]}
+      {"code":249,"indent":4,"parameters":[{"name":"incorrect-sound-effect","pan":0,"pitch":100,"volume":95}]}
+      {"code":0,"indent":4,"parameters":[]}
+      {"code":402,"indent":3,"parameters":[3,"Espanha"]}
+      {"code":101,"indent":4,"parameters":["",0,0,2]}
+      {"code":401,"indent":4,"parameters":["Você sente que errou então decide passar a"]}
+      {"code":401,"indent":4,"parameters":["prova a limpo"]}
+      {"code":0,"indent":4,"parameters":[]}
+      {"code":404,"indent":3,"parameters":[]}
+      {"code":0,"indent":3,"parameters":[]}
+      {"code":402,"indent":2,"parameters":[2,"Mamão grosso"]}
+      {"code":101,"indent":3,"parameters":["",0,0,2]}
+      {"code":401,"indent":3,"parameters":["É sério isso???"]}
+      {"code":401,"indent":3,"parameters":["vamos passar a prova a limpo."]}
+      {"code":249,"indent":3,"parameters":[{"name":"incorrect-sound-effect","pan":0,"pitch":100,"volume":95}]}
+      {"code":0,"indent":3,"parameters":[]}
+      {"code":402,"indent":2,"parameters":[3,"Mapa Gentil"]}
+      {"code":101,"indent":3,"parameters":["",0,0,2]}
+      {"code":401,"indent":3,"parameters":["o queêêêeeeeeeêêê??"]}
+      {"code":401,"indent":3,"parameters":[""]}
+      {"code":401,"indent":3,"parameters":[""]}
+      {"code":401,"indent":3,"parameters":["...vamos simplesmente passar a prova a limpo."]}
+      {"code":249,"indent":3,"parameters":[{"name":"incorrect-sound-effect","pan":0,"pitch":100,"volume":95}]}
+      {"code":0,"indent":3,"parameters":[]}
+      {"code":404,"indent":2,"parameters":[]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":402,"indent":1,"parameters":[2,"3"]}
+      {"code":101,"indent":2,"parameters":["",0,0,2]}
+      {"code":401,"indent":2,"parameters":["Você sente que errou, então decide passar a "]}
+      {"code":401,"indent":2,"parameters":["prova a limpo."]}
+      {"code":249,"indent":2,"parameters":[{"name":"incorrect-sound-effect","pan":0,"pitch":100,"volume":95}]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":402,"indent":1,"parameters":[3,"5"]}
+      {"code":101,"indent":2,"parameters":["",0,0,2]}
+      {"code":401,"indent":2,"parameters":["Você sente que errou, então decide passar a "]}
+      {"code":401,"indent":2,"parameters":["prova a limpo."]}
+      {"code":249,"indent":2,"parameters":[{"name":"incorrect-sound-effect","pan":0,"pitch":100,"volume":95}]}
+      {"code":0,"indent":2,"parameters":[]}
+      {"code":404,"indent":1,"parameters":[]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":413,"indent":0,"parameters":[]}
+      {"code":113,"indent":0,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 10 ("EV010" @ 9,10)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":101,"indent":0,"parameters":["Actor5",4,0,2]}
+      {"code":401,"indent":0,"parameters":["VOLTE PARA O SEU LUGAR!"]}
+      {"code":201,"indent":0,"parameters":[0,14,8,10,0,0]}
+      {"code":0,"indent":0,"parameters":[]}
+Map Data/Map015.rvdata2 (Escola)
+  Event 1 ("EV001" @ 1,10)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":250,"indent":0,"parameters":[{"name":"Open1","pan":0,"pitch":100,"volume":80}]}
+        {"code":17,"indent":null,"parameters":[]}
+        {"code":15,"indent":null,"parameters":[3]}
+        {"code":18,"indent":null,"parameters":[]}
+        {"code":15,"indent":null,"parameters":[3]}
+        {"code":19,"indent":null,"parameters":[]}
+        {"code":37,"indent":null,"parameters":[]}
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":205,"indent":0,"parameters":[0,{"list":[{"code":17,"indent":null,"parameters":[]},{"code":15,"indent":null,"parameters":[3]},{"code":18,"indent":null,"parameters":[]},{"code":15,"indent":null,"parameters":[3]},{"code":19,"indent":null,"parameters":[]},{"code":37,"indent":null,"parameters":[]},{"code":0,"indent":null,"parameters":[]}],"repeat":false,"skippable":false,"wait":true}]}
+      {"code":505,"indent":0,"parameters":[{"code":17,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":15,"indent":null,"parameters":[3]}]}
+      {"code":505,"indent":0,"parameters":[{"code":18,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":15,"indent":null,"parameters":[3]}]}
+      {"code":505,"indent":0,"parameters":[{"code":19,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":37,"indent":null,"parameters":[]}]}
+        {"code":12,"indent":null,"parameters":[]}
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":205,"indent":0,"parameters":[-1,{"list":[{"code":12,"indent":null,"parameters":[]},{"code":0,"indent":null,"parameters":[]}],"repeat":false,"skippable":true,"wait":true}]}
+      {"code":505,"indent":0,"parameters":[{"code":12,"indent":null,"parameters":[]}]}
+      {"code":250,"indent":0,"parameters":[{"name":"Move","pan":0,"pitch":100,"volume":80}]}
+      {"code":201,"indent":0,"parameters":[0,12,1,12,0,0]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 2 ("EV002" @ 15,10)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":250,"indent":0,"parameters":[{"name":"Open1","pan":0,"pitch":100,"volume":80}]}
+        {"code":17,"indent":null,"parameters":[]}
+        {"code":15,"indent":null,"parameters":[3]}
+        {"code":18,"indent":null,"parameters":[]}
+        {"code":15,"indent":null,"parameters":[3]}
+        {"code":19,"indent":null,"parameters":[]}
+        {"code":37,"indent":null,"parameters":[]}
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":205,"indent":0,"parameters":[0,{"list":[{"code":17,"indent":null,"parameters":[]},{"code":15,"indent":null,"parameters":[3]},{"code":18,"indent":null,"parameters":[]},{"code":15,"indent":null,"parameters":[3]},{"code":19,"indent":null,"parameters":[]},{"code":37,"indent":null,"parameters":[]},{"code":0,"indent":null,"parameters":[]}],"repeat":false,"skippable":false,"wait":true}]}
+      {"code":505,"indent":0,"parameters":[{"code":17,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":15,"indent":null,"parameters":[3]}]}
+      {"code":505,"indent":0,"parameters":[{"code":18,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":15,"indent":null,"parameters":[3]}]}
+      {"code":505,"indent":0,"parameters":[{"code":19,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":37,"indent":null,"parameters":[]}]}
+        {"code":12,"indent":null,"parameters":[]}
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":205,"indent":0,"parameters":[-1,{"list":[{"code":12,"indent":null,"parameters":[]},{"code":0,"indent":null,"parameters":[]}],"repeat":false,"skippable":true,"wait":true}]}
+      {"code":505,"indent":0,"parameters":[{"code":12,"indent":null,"parameters":[]}]}
+      {"code":250,"indent":0,"parameters":[{"name":"Move","pan":0,"pitch":100,"volume":80}]}
+      {"code":201,"indent":0,"parameters":[0,13,1,12,0,0]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 3 ("EV003" @ 8,12)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":250,"indent":0,"parameters":[{"name":"Open1","pan":0,"pitch":100,"volume":80}]}
+        {"code":17,"indent":null,"parameters":[]}
+        {"code":15,"indent":null,"parameters":[3]}
+        {"code":18,"indent":null,"parameters":[]}
+        {"code":15,"indent":null,"parameters":[3]}
+        {"code":19,"indent":null,"parameters":[]}
+        {"code":37,"indent":null,"parameters":[]}
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":205,"indent":0,"parameters":[0,{"list":[{"code":17,"indent":null,"parameters":[]},{"code":15,"indent":null,"parameters":[3]},{"code":18,"indent":null,"parameters":[]},{"code":15,"indent":null,"parameters":[3]},{"code":19,"indent":null,"parameters":[]},{"code":37,"indent":null,"parameters":[]},{"code":0,"indent":null,"parameters":[]}],"repeat":false,"skippable":false,"wait":true}]}
+      {"code":505,"indent":0,"parameters":[{"code":17,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":15,"indent":null,"parameters":[3]}]}
+      {"code":505,"indent":0,"parameters":[{"code":18,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":15,"indent":null,"parameters":[3]}]}
+      {"code":505,"indent":0,"parameters":[{"code":19,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":37,"indent":null,"parameters":[]}]}
+        {"code":12,"indent":null,"parameters":[]}
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":205,"indent":0,"parameters":[-1,{"list":[{"code":12,"indent":null,"parameters":[]},{"code":0,"indent":null,"parameters":[]}],"repeat":false,"skippable":true,"wait":true}]}
+      {"code":505,"indent":0,"parameters":[{"code":12,"indent":null,"parameters":[]}]}
+      {"code":250,"indent":0,"parameters":[{"name":"Move","pan":0,"pitch":100,"volume":80}]}
+      {"code":201,"indent":0,"parameters":[0,10,8,12,0,0]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 5 ("EV005" @ 16,5)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":250,"indent":0,"parameters":[{"name":"Open1","pan":0,"pitch":100,"volume":80}]}
+        {"code":17,"indent":null,"parameters":[]}
+        {"code":15,"indent":null,"parameters":[3]}
+        {"code":18,"indent":null,"parameters":[]}
+        {"code":15,"indent":null,"parameters":[3]}
+        {"code":19,"indent":null,"parameters":[]}
+        {"code":37,"indent":null,"parameters":[]}
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":205,"indent":0,"parameters":[0,{"list":[{"code":17,"indent":null,"parameters":[]},{"code":15,"indent":null,"parameters":[3]},{"code":18,"indent":null,"parameters":[]},{"code":15,"indent":null,"parameters":[3]},{"code":19,"indent":null,"parameters":[]},{"code":37,"indent":null,"parameters":[]},{"code":0,"indent":null,"parameters":[]}],"repeat":false,"skippable":false,"wait":true}]}
+      {"code":505,"indent":0,"parameters":[{"code":17,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":15,"indent":null,"parameters":[3]}]}
+      {"code":505,"indent":0,"parameters":[{"code":18,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":15,"indent":null,"parameters":[3]}]}
+      {"code":505,"indent":0,"parameters":[{"code":19,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":37,"indent":null,"parameters":[]}]}
+        {"code":12,"indent":null,"parameters":[]}
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":205,"indent":0,"parameters":[-1,{"list":[{"code":12,"indent":null,"parameters":[]},{"code":0,"indent":null,"parameters":[]}],"repeat":false,"skippable":true,"wait":true}]}
+      {"code":505,"indent":0,"parameters":[{"code":12,"indent":null,"parameters":[]}]}
+      {"code":250,"indent":0,"parameters":[{"name":"Move","pan":0,"pitch":100,"volume":80}]}
+      {"code":201,"indent":0,"parameters":[0,11,8,11,0,0]}
+      {"code":0,"indent":0,"parameters":[]}
+Map Data/Map016.rvdata2 (Cidade)
+  Event 1 ("EV001" @ 27,21)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 2 ("EV002" @ 27,20)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 3 ("EV003" @ 17,35)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":250,"indent":0,"parameters":[{"name":"Open1","pan":0,"pitch":100,"volume":80}]}
+        {"code":17,"indent":null,"parameters":[]}
+        {"code":15,"indent":null,"parameters":[3]}
+        {"code":18,"indent":null,"parameters":[]}
+        {"code":15,"indent":null,"parameters":[3]}
+        {"code":19,"indent":null,"parameters":[]}
+        {"code":37,"indent":null,"parameters":[]}
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":205,"indent":0,"parameters":[0,{"list":[{"code":17,"indent":null,"parameters":[]},{"code":15,"indent":null,"parameters":[3]},{"code":18,"indent":null,"parameters":[]},{"code":15,"indent":null,"parameters":[3]},{"code":19,"indent":null,"parameters":[]},{"code":37,"indent":null,"parameters":[]},{"code":0,"indent":null,"parameters":[]}],"repeat":false,"skippable":false,"wait":true}]}
+      {"code":505,"indent":0,"parameters":[{"code":17,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":15,"indent":null,"parameters":[3]}]}
+      {"code":505,"indent":0,"parameters":[{"code":18,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":15,"indent":null,"parameters":[3]}]}
+      {"code":505,"indent":0,"parameters":[{"code":19,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":37,"indent":null,"parameters":[]}]}
+        {"code":12,"indent":null,"parameters":[]}
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":205,"indent":0,"parameters":[-1,{"list":[{"code":12,"indent":null,"parameters":[]},{"code":0,"indent":null,"parameters":[]}],"repeat":false,"skippable":true,"wait":true}]}
+      {"code":505,"indent":0,"parameters":[{"code":12,"indent":null,"parameters":[]}]}
+      {"code":250,"indent":0,"parameters":[{"name":"Move","pan":0,"pitch":100,"volume":80}]}
+      {"code":201,"indent":0,"parameters":[0,3,8,17,0,0]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 4 ("EV004" @ 36,15)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":111,"indent":0,"parameters":[8,6]}
+        {"code":17,"indent":null,"parameters":[]}
+        {"code":15,"indent":null,"parameters":[3]}
+        {"code":18,"indent":null,"parameters":[]}
+        {"code":15,"indent":null,"parameters":[3]}
+        {"code":19,"indent":null,"parameters":[]}
+        {"code":37,"indent":null,"parameters":[]}
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":205,"indent":1,"parameters":[0,{"list":[{"code":17,"indent":null,"parameters":[]},{"code":15,"indent":null,"parameters":[3]},{"code":18,"indent":null,"parameters":[]},{"code":15,"indent":null,"parameters":[3]},{"code":19,"indent":null,"parameters":[]},{"code":37,"indent":null,"parameters":[]},{"code":0,"indent":null,"parameters":[]}],"repeat":false,"skippable":false,"wait":true}]}
+      {"code":505,"indent":1,"parameters":[{"code":17,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":1,"parameters":[{"code":15,"indent":null,"parameters":[3]}]}
+      {"code":505,"indent":1,"parameters":[{"code":18,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":1,"parameters":[{"code":15,"indent":null,"parameters":[3]}]}
+      {"code":505,"indent":1,"parameters":[{"code":19,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":1,"parameters":[{"code":37,"indent":null,"parameters":[]}]}
+        {"code":12,"indent":null,"parameters":[]}
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":205,"indent":1,"parameters":[-1,{"list":[{"code":12,"indent":null,"parameters":[]},{"code":0,"indent":null,"parameters":[]}],"repeat":false,"skippable":true,"wait":true}]}
+      {"code":505,"indent":1,"parameters":[{"code":12,"indent":null,"parameters":[]}]}
+      {"code":250,"indent":1,"parameters":[{"name":"Move","pan":0,"pitch":100,"volume":80}]}
+      {"code":201,"indent":1,"parameters":[0,5,5,14,0,0]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":411,"indent":0,"parameters":[]}
+      {"code":201,"indent":1,"parameters":[0,1,16,11,0,0]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":412,"indent":0,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 5 ("EV005" @ 26,29)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":250,"indent":0,"parameters":[{"name":"Open1","pan":0,"pitch":100,"volume":80}]}
+        {"code":17,"indent":null,"parameters":[]}
+        {"code":15,"indent":null,"parameters":[3]}
+        {"code":18,"indent":null,"parameters":[]}
+        {"code":15,"indent":null,"parameters":[3]}
+        {"code":19,"indent":null,"parameters":[]}
+        {"code":37,"indent":null,"parameters":[]}
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":205,"indent":0,"parameters":[0,{"list":[{"code":17,"indent":null,"parameters":[]},{"code":15,"indent":null,"parameters":[3]},{"code":18,"indent":null,"parameters":[]},{"code":15,"indent":null,"parameters":[3]},{"code":19,"indent":null,"parameters":[]},{"code":37,"indent":null,"parameters":[]},{"code":0,"indent":null,"parameters":[]}],"repeat":false,"skippable":false,"wait":true}]}
+      {"code":505,"indent":0,"parameters":[{"code":17,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":15,"indent":null,"parameters":[3]}]}
+      {"code":505,"indent":0,"parameters":[{"code":18,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":15,"indent":null,"parameters":[3]}]}
+      {"code":505,"indent":0,"parameters":[{"code":19,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":37,"indent":null,"parameters":[]}]}
+        {"code":12,"indent":null,"parameters":[]}
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":205,"indent":0,"parameters":[-1,{"list":[{"code":12,"indent":null,"parameters":[]},{"code":0,"indent":null,"parameters":[]}],"repeat":false,"skippable":true,"wait":true}]}
+      {"code":505,"indent":0,"parameters":[{"code":12,"indent":null,"parameters":[]}]}
+      {"code":250,"indent":0,"parameters":[{"name":"Move","pan":0,"pitch":100,"volume":80}]}
+      {"code":201,"indent":0,"parameters":[0,4,17,24,0,0]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 6 ("EV006" @ 38,16)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":250,"indent":0,"parameters":[{"name":"Open1","pan":0,"pitch":100,"volume":80}]}
+        {"code":17,"indent":null,"parameters":[]}
+        {"code":15,"indent":null,"parameters":[3]}
+        {"code":18,"indent":null,"parameters":[]}
+        {"code":15,"indent":null,"parameters":[3]}
+        {"code":19,"indent":null,"parameters":[]}
+        {"code":37,"indent":null,"parameters":[]}
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":205,"indent":0,"parameters":[0,{"list":[{"code":17,"indent":null,"parameters":[]},{"code":15,"indent":null,"parameters":[3]},{"code":18,"indent":null,"parameters":[]},{"code":15,"indent":null,"parameters":[3]},{"code":19,"indent":null,"parameters":[]},{"code":37,"indent":null,"parameters":[]},{"code":0,"indent":null,"parameters":[]}],"repeat":false,"skippable":false,"wait":true}]}
+      {"code":505,"indent":0,"parameters":[{"code":17,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":15,"indent":null,"parameters":[3]}]}
+      {"code":505,"indent":0,"parameters":[{"code":18,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":15,"indent":null,"parameters":[3]}]}
+      {"code":505,"indent":0,"parameters":[{"code":19,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":37,"indent":null,"parameters":[]}]}
+        {"code":12,"indent":null,"parameters":[]}
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":205,"indent":0,"parameters":[-1,{"list":[{"code":12,"indent":null,"parameters":[]},{"code":0,"indent":null,"parameters":[]}],"repeat":false,"skippable":true,"wait":true}]}
+      {"code":505,"indent":0,"parameters":[{"code":12,"indent":null,"parameters":[]}]}
+      {"code":250,"indent":0,"parameters":[{"name":"Move","pan":0,"pitch":100,"volume":80}]}
+      {"code":201,"indent":0,"parameters":[0,11,8,11,0,0]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 7 ("EV007" @ 11,37)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":301,"indent":0,"parameters":[0,1,true,true]}
+      {"code":601,"indent":0,"parameters":[]}
+      {"code":201,"indent":1,"parameters":[0,1,16,11,0,0]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":602,"indent":0,"parameters":[]}
+      {"code":101,"indent":1,"parameters":["OHNAO",0,0,2]}
+      {"code":401,"indent":1,"parameters":["\\}Droga, acho que aquele cavalo levou meu pão"]}
+      {"code":126,"indent":1,"parameters":[1,1,0,1]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":603,"indent":0,"parameters":[]}
+      {"code":101,"indent":1,"parameters":["OHNAO",0,0,2]}
+      {"code":401,"indent":1,"parameters":["\\}Droga, acho que aquele cavalo levou meu pão"]}
+      {"code":126,"indent":1,"parameters":[1,1,0,1]}
+      {"code":201,"indent":1,"parameters":[0,3,8,16,0,0]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":604,"indent":0,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+Map Data/Map017.rvdata2 (Casa)
+  Event 1 ("EV001" @ 5,15)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":250,"indent":0,"parameters":[{"name":"Open1","pan":0,"pitch":100,"volume":80}]}
+        {"code":17,"indent":null,"parameters":[]}
+        {"code":15,"indent":null,"parameters":[3]}
+        {"code":18,"indent":null,"parameters":[]}
+        {"code":15,"indent":null,"parameters":[3]}
+        {"code":19,"indent":null,"parameters":[]}
+        {"code":37,"indent":null,"parameters":[]}
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":205,"indent":0,"parameters":[0,{"list":[{"code":17,"indent":null,"parameters":[]},{"code":15,"indent":null,"parameters":[3]},{"code":18,"indent":null,"parameters":[]},{"code":15,"indent":null,"parameters":[3]},{"code":19,"indent":null,"parameters":[]},{"code":37,"indent":null,"parameters":[]},{"code":0,"indent":null,"parameters":[]}],"repeat":false,"skippable":false,"wait":true}]}
+      {"code":505,"indent":0,"parameters":[{"code":17,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":15,"indent":null,"parameters":[3]}]}
+      {"code":505,"indent":0,"parameters":[{"code":18,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":15,"indent":null,"parameters":[3]}]}
+      {"code":505,"indent":0,"parameters":[{"code":19,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":37,"indent":null,"parameters":[]}]}
+        {"code":12,"indent":null,"parameters":[]}
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":205,"indent":0,"parameters":[-1,{"list":[{"code":12,"indent":null,"parameters":[]},{"code":0,"indent":null,"parameters":[]}],"repeat":false,"skippable":true,"wait":true}]}
+      {"code":505,"indent":0,"parameters":[{"code":12,"indent":null,"parameters":[]}]}
+      {"code":250,"indent":0,"parameters":[{"name":"Move","pan":0,"pitch":100,"volume":80}]}
+      {"code":201,"indent":0,"parameters":[0,7,36,16,0,0]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 2 ("EV002" @ 8,8)
+    Page 1
+        {"code":2,"indent":null,"parameters":[]}
+        {"code":1,"indent":null,"parameters":[]}
+        {"code":1,"indent":null,"parameters":[]}
+        {"code":1,"indent":null,"parameters":[]}
+        {"code":1,"indent":null,"parameters":[]}
+        {"code":2,"indent":null,"parameters":[]}
+        {"code":2,"indent":null,"parameters":[]}
+        {"code":1,"indent":null,"parameters":[]}
+        {"code":1,"indent":null,"parameters":[]}
+        {"code":13,"indent":null,"parameters":[]}
+        {"code":13,"indent":null,"parameters":[]}
+        {"code":13,"indent":null,"parameters":[]}
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":111,"indent":0,"parameters":[8,2]}
+      {"code":101,"indent":1,"parameters":["Eta",0,0,2]}
+      {"code":401,"indent":1,"parameters":["FILHO! "]}
+      {"code":101,"indent":1,"parameters":["Eta",0,0,2]}
+      {"code":401,"indent":1,"parameters":["OUVI DIZER QUE HOJE TEVE PROVA!"]}
+      {"code":401,"indent":1,"parameters":["E VOCÊ SABE QUE É BURRO ENTÃO EU JA SEI"]}
+      {"code":401,"indent":1,"parameters":["QUE VOCÊ TIROU UM ZERO BEM REDONDO!"]}
+      {"code":101,"indent":1,"parameters":["OHNAO",0,0,2]}
+      {"code":401,"indent":1,"parameters":["Calma sua doida! eu Tirei dez dessa vez!"]}
+      {"code":401,"indent":1,"parameters":["Olha so!"]}
+      {"code":126,"indent":1,"parameters":[2,1,0,1]}
+      {"code":101,"indent":1,"parameters":["Eta",0,0,2]}
+      {"code":401,"indent":1,"parameters":["..."]}
+      {"code":401,"indent":1,"parameters":["Que?"]}
+      {"code":101,"indent":1,"parameters":["Eta",0,0,2]}
+      {"code":401,"indent":1,"parameters":["*Desmaia Também*"]}
+      {"code":101,"indent":1,"parameters":["OHNAO",0,0,2]}
+      {"code":401,"indent":1,"parameters":["Meu Deus do céu Sempre que alguém vê que"]}
+      {"code":401,"indent":1,"parameters":["eu tireri dez desmaia"]}
+      {"code":101,"indent":1,"parameters":["OHNAO",0,0,1]}
+      {"code":401,"indent":1,"parameters":["Eu sou tão burro assim?"]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":411,"indent":0,"parameters":[]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":412,"indent":0,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 4 ("EV004" @ 14,6)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":241,"indent":0,"parameters":[{"name":"he-128","pan":0,"pitch":120,"volume":100}]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 5 ("EV005" @ 15,5)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":241,"indent":0,"parameters":[{"name":"he-128","pan":0,"pitch":120,"volume":100}]}
+      {"code":0,"indent":0,"parameters":[]}
+Map Data/Map018.rvdata2 (Sala de Aula)
+  Event 1 ("EV001" @ 6,10)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 2 ("EV002" @ 6,12)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 3 ("EV003" @ 8,12)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 4 ("EV004" @ 10,12)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 5 ("EV005" @ 10,10)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 6 ("EV006" @ 1,12)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":250,"indent":0,"parameters":[{"name":"Open1","pan":0,"pitch":100,"volume":80}]}
+        {"code":17,"indent":null,"parameters":[]}
+        {"code":15,"indent":null,"parameters":[3]}
+        {"code":18,"indent":null,"parameters":[]}
+        {"code":15,"indent":null,"parameters":[3]}
+        {"code":19,"indent":null,"parameters":[]}
+        {"code":37,"indent":null,"parameters":[]}
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":205,"indent":0,"parameters":[0,{"list":[{"code":17,"indent":null,"parameters":[]},{"code":15,"indent":null,"parameters":[3]},{"code":18,"indent":null,"parameters":[]},{"code":15,"indent":null,"parameters":[3]},{"code":19,"indent":null,"parameters":[]},{"code":37,"indent":null,"parameters":[]},{"code":0,"indent":null,"parameters":[]}],"repeat":false,"skippable":false,"wait":true}]}
+      {"code":505,"indent":0,"parameters":[{"code":17,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":15,"indent":null,"parameters":[3]}]}
+      {"code":505,"indent":0,"parameters":[{"code":18,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":15,"indent":null,"parameters":[3]}]}
+      {"code":505,"indent":0,"parameters":[{"code":19,"indent":null,"parameters":[]}]}
+      {"code":505,"indent":0,"parameters":[{"code":37,"indent":null,"parameters":[]}]}
+        {"code":12,"indent":null,"parameters":[]}
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":205,"indent":0,"parameters":[-1,{"list":[{"code":12,"indent":null,"parameters":[]},{"code":0,"indent":null,"parameters":[]}],"repeat":false,"skippable":true,"wait":true}]}
+      {"code":505,"indent":0,"parameters":[{"code":12,"indent":null,"parameters":[]}]}
+      {"code":250,"indent":0,"parameters":[{"name":"Move","pan":0,"pitch":100,"volume":80}]}
+      {"code":201,"indent":0,"parameters":[0,10,1,11,0,0]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 7 ("EV007" @ 14,5)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+  Event 8 ("EV008" @ 8,10)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":111,"indent":0,"parameters":[7,0,0]}
+      {"code":101,"indent":1,"parameters":["Actor5",4,0,2]}
+      {"code":401,"indent":1,"parameters":["\\}Joãozinho tirou: 4"]}
+      {"code":401,"indent":1,"parameters":["Maria tirou: 8"]}
+      {"code":401,"indent":1,"parameters":["Sofia tirou: 7"]}
+      {"code":401,"indent":1,"parameters":["Ster tirou: 0 e.."]}
+      {"code":101,"indent":1,"parameters":["Actor5",4,0,2]}
+      {"code":401,"indent":1,"parameters":["QUEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE"]}
+      {"code":401,"indent":1,"parameters":["EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE"]}
+      {"code":401,"indent":1,"parameters":["EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE"]}
+      {"code":401,"indent":1,"parameters":["EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE"]}
+      {"code":101,"indent":1,"parameters":["Actor5",4,0,2]}
+      {"code":401,"indent":1,"parameters":["COMO QUE ELE TIROU DEZ- *Desmaia*"]}
+      {"code":101,"indent":1,"parameters":["OHNAO",0,0,2]}
+      {"code":401,"indent":1,"parameters":["Opa! Tirei a maior nota da sala! eu tenho que"]}
+      {"code":401,"indent":1,"parameters":["mostrar isso pra minha mãe! ela vai ficar tão "]}
+      {"code":401,"indent":1,"parameters":["orgulhosa de mim! 😃"]}
+      {"code":221,"indent":1,"parameters":[]}
+      {"code":201,"indent":1,"parameters":[0,17,5,14,0,0]}
+      {"code":126,"indent":1,"parameters":[2,0,0,1]}
+      {"code":222,"indent":1,"parameters":[]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":411,"indent":0,"parameters":[]}
+      {"code":0,"indent":1,"parameters":[]}
+      {"code":412,"indent":0,"parameters":[]}
+      {"code":0,"indent":0,"parameters":[]}
+Map Data/Map020.rvdata2 ()
+  Event 5 ("EV005" @ 5,7)
+    Page 1
+        {"code":0,"indent":null,"parameters":[]}
+      {"code":201,"indent":0,"parameters":[0,20,5,12,0,0]}
+      {"code":0,"indent":0,"parameters":[]}
